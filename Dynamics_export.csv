@@ -1,0 +1,6276 @@
+dynId,dynStaId,dynRetId,dynCrlId,dynPrice,dynStockStatus,dynSeller,dynShippedBy,dynShipPrice,dynAnsweredQuestions,dynRating,dynReviewCount,dynStockMessage,dynZipCode,dynCrawlTime
+1,2,1,2,720,0,EverythingMusic,EverythingMusic,0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 13:47:28"
+2,3,1,3,520,0,"Front Row Electronics","Front Row Electronics",0,0,0,0,"Only 8 left in stock - order soon.",02128,"2019-02-05 13:47:49"
+3,5,1,10,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:00:31"
+4,5,1,11,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:01:23"
+5,5,1,15,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:07:54"
+6,5,1,16,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:08:26"
+7,5,1,17,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:08:35"
+8,5,1,18,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:08:40"
+9,5,1,19,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:08:44"
+10,5,1,20,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:08:49"
+11,5,1,21,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:10:37"
+12,7,1,23,620,0,EverythingMusic,EverythingMusic,0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 14:13:01"
+13,8,1,24,150,0,GearTree,GearTree,0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:13:06"
+14,9,1,25,239,0,GearTree,GearTree,0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:13:11"
+15,10,1,26,99,0,GearTree,GearTree,0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:13:16"
+16,11,1,27,179,1,n-electronic,n-electronic,30,0,0,0,"In Stock.",02108,"2019-02-05 14:13:22"
+17,12,1,28,199,0,GearTree,GearTree,0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:13:27"
+18,13,1,29,99,0,GearTree,GearTree,0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:13:32"
+19,14,1,30,99,0,GearTree,GearTree,0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 14:13:36"
+20,17,1,33,649,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:18:36"
+21,18,1,34,899,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:18:41"
+22,19,1,35,300,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,4,2,"Only 2 left in stock - order soon.",02108,"2019-02-05 14:18:48"
+23,21,1,37,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,13,"Available from these sellers.",02108,"2019-02-05 14:19:42"
+24,22,1,38,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 14:19:47"
+25,23,1,39,700,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:19:52"
+26,24,1,40,0,0,"Chuck Levin's Washington Music Center","[!Error: shipped_by Not Found]",0,0,5,1,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:19:57"
+27,25,1,41,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 14:20:02"
+28,26,1,42,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,1,"Available from these sellers.",02108,"2019-02-05 14:20:09"
+29,27,1,43,960,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:20:13"
+30,28,1,44,259,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 8 left in stock - order soon.",02128,"2019-02-05 14:20:18"
+31,29,1,45,0,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02128,"2019-02-05 14:20:23"
+32,30,1,46,135,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:20:28"
+33,31,1,47,520,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:20:33"
+34,32,1,48,400,0,"Alto Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 14:20:38"
+35,33,1,49,700,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:20:42"
+36,34,1,50,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 14:20:47"
+37,35,1,51,25,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,0,0,"Only 15 left in stock - order soon.",02128,"2019-02-05 14:20:52"
+38,36,1,52,649,0,pixelproaudio,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 14:20:57"
+39,37,1,53,179,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 14:21:04"
+40,38,1,54,140,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 14:21:10"
+41,39,1,55,0,0,Proaudiostar,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 14:21:15"
+42,40,1,56,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 14:21:20"
+43,41,1,57,359,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:21:24"
+44,42,1,58,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:21:29"
+45,43,1,59,450,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:21:34"
+46,44,1,60,179,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 14:21:40"
+47,45,1,61,649,0,"8th Street Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:21:45"
+48,47,1,63,179,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,5,1,"In Stock.",02108,"2019-02-05 14:48:59"
+49,48,1,64,42,0,Amazon.com,Amazon.com,0,0,5,1,"Only 1 left in stock (more on the way).",02128,"2019-02-05 14:49:04"
+50,49,1,65,300,0,"Chicago Music Exchange","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:49:09"
+51,50,1,66,180,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:49:14"
+52,51,1,67,520,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:49:19"
+53,52,1,68,0,0,"Turntable Lab",Amazon.com,0,0,4,8,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:49:24"
+54,53,1,69,99,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 14:49:28"
+55,54,1,70,200,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:49:33"
+56,55,1,71,199,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 14:49:38"
+57,56,1,72,299,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:49:43"
+58,57,1,73,0,0,"Chicago Music Exchange","[!Error: shipped_by Not Found]",0,0,4,4,"Only 1 left in stock - order soon.",02108,"2019-02-05 14:49:50"
+59,58,1,74,629,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:49:55"
+60,59,1,75,0,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,5,2,"Only 5 left in stock - order soon.",02128,"2019-02-05 14:50:01"
+61,60,1,78,150,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,5,1,"In Stock.",02128,"2019-02-05 14:50:14"
+62,61,1,79,279,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:50:19"
+63,63,1,81,999,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,5,2,"Only 2 left in stock - order soon.",02108,"2019-02-05 14:51:23"
+64,64,1,82,0,0,"Chicago Music Exchange","[!Error: shipped_by Not Found]",0,0,5,1,"Only 3 left in stock - order soon.",02128,"2019-02-05 14:51:28"
+65,65,1,83,500,0,AudioTopia,Amazon.com,0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 14:51:33"
+66,66,1,84,549,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:51:38"
+67,67,1,85,0,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:51:43"
+68,68,1,86,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 14:51:48"
+69,69,1,87,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 14:51:53"
+70,70,1,89,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 14:52:02"
+71,71,1,90,900,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:52:07"
+72,72,1,91,400,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 14:52:11"
+73,73,1,92,214,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,4,1,"Only 3 left in stock - order soon.",02128,"2019-02-05 14:52:16"
+74,74,1,96,489,0,Amazon.com,Amazon.com,0,0,0,0,"Only 6 left in stock (more on the way).",02128,"2019-02-05 14:52:34"
+75,75,1,97,149,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:52:39"
+76,76,1,99,179,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:52:48"
+77,77,1,100,143,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:52:52"
+78,78,1,101,179,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 14:52:59"
+79,79,1,103,169,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 14:53:10"
+80,80,1,104,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,44,4,400,"Available from these sellers.",02108,"2019-02-05 14:53:17"
+81,81,1,105,70,1,Dubreq,Amazon.com,0,8,4,36,"In Stock.",02108,"2019-02-05 14:53:24"
+82,82,1,106,150,0,GK_store,Amazon.com,0,128,4,279,"Only 15 left in stock - order soon.",02108,"2019-02-05 14:53:33"
+83,83,1,107,73,1,Hamee,"[!Error: shipped_by Not Found]",0,19,4,77,"In Stock.",02108,"2019-02-05 14:53:41"
+84,84,1,108,48,1,Amazon.com,Amazon.com,0,40,4,244,"In Stock.",02108,"2019-02-05 14:53:49"
+85,85,1,109,294,1,Amazon.com,Amazon.com,0,4,5,5,"In Stock.",02118,"2019-02-05 14:53:54"
+86,86,1,110,30,1,Amazon.com,Amazon.com,0,0,4,12,"In Stock.",02108,"2019-02-05 14:54:00"
+87,87,1,111,100,0,"Burns Theremins","[!Error: shipped_by Not Found]",0,26,4,59,"Only 4 left in stock - order soon.",02108,"2019-02-05 14:54:07"
+88,88,1,112,330,0,PitbullAudio,Amazon.com,0,4,5,3,"Only 3 left in stock - order soon.",02134,"2019-02-05 14:54:12"
+89,89,1,113,279,0,AudioDeluxe,Amazon.com,0,45,5,93,"Only 3 left in stock - order soon.",02360,"2019-02-05 14:54:17"
+90,90,1,114,700,1,"Adorama Camera","[!Error: shipped_by Not Found]",0,3,5,1,"In Stock.",02108,"2019-02-05 14:54:24"
+91,91,1,115,899,0,Amazon.com,Amazon.com,0,0,5,4,"Only 6 left in stock (more on the way).",02108,"2019-02-05 14:54:31"
+92,92,1,116,275,0,Amazon.com,Amazon.com,0,12,5,15,"Only 7 left in stock (more on the way).",02108,"2019-02-05 14:54:39"
+93,93,1,117,0,1,Amazon.com,Amazon.com,0,0,4,25,"In Stock.",02108,"2019-02-05 14:54:46"
+94,94,1,118,587,0,Amazon.com,Amazon.com,0,69,5,37,"Temporarily out of stock. Order now and we'll deliver when available. We'll e-mail you with an estimated delivery date as soon as we have more information. Your account will only be charged when we ship the item.",02108,"2019-02-05 14:54:53"
+95,95,1,119,380,1,"Streamline Audio Video",Amazon.com,0,0,5,4,"In Stock.",02134,"2019-02-05 14:54:58"
+96,96,1,120,270,0,"YAGAMI STORE",Amazon.com,0,33,4,37,"Only 3 left in stock - order soon.",02108,"2019-02-05 14:55:05"
+97,97,1,121,299,1,Amazon.com,Amazon.com,0,9,5,12,"In Stock.",02108,"2019-02-05 14:55:12"
+98,98,1,122,700,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 6 left in stock - order soon.",02108,"2019-02-05 14:55:19"
+99,99,1,123,300,0,"Austin Bazaar",Amazon.com,0,0,5,4,"Only 4 left in stock - order soon.",02108,"2019-02-05 14:55:26"
+100,100,1,124,500,0,EverythingMusic,Amazon.com,0,27,4,20,"Only 1 left in stock - order soon.",02108,"2019-02-05 14:55:33"
+101,101,1,125,520,1,Amazon.com,Amazon.com,0,24,5,24,"In Stock.",02108,"2019-02-05 14:55:41"
+102,102,1,126,19,1,co2crea,Amazon.com,0,0,5,4,"In Stock.",02108,"2019-02-05 14:55:48"
+103,103,1,127,350,1,"Quantum Networks",Amazon.com,0,0,4,3,"In Stock.",02108,"2019-02-05 14:55:54"
+104,104,1,128,119,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:55:59"
+105,105,1,130,250,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 14:56:08"
+106,106,1,131,300,0,"Zorro Sounds","[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:56:13"
+107,107,1,133,185,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 14:57:57"
+108,108,1,134,0,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,3,2,"Only 8 left in stock - order soon.",02128,"2019-02-05 14:58:02"
+109,109,1,135,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,1,"Available from these sellers.",02128,"2019-02-05 14:58:07"
+110,110,1,136,820,0,Amazon.com,Amazon.com,0,0,5,1,"Only 4 left in stock (more on the way).",02128,"2019-02-05 14:58:12"
+111,111,1,137,0,0,"Chicago Music Exchange","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 14:58:17"
+112,112,1,138,519,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 12 left in stock - order soon.",02128,"2019-02-05 14:58:22"
+113,113,1,140,0,0,"Alto Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02134,"2019-02-05 15:00:07"
+114,114,1,141,0,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:00:11"
+115,115,1,142,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:00:16"
+116,116,1,143,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:00:21"
+117,117,1,144,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:00:26"
+118,118,1,145,0,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:00:31"
+119,119,1,146,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02128,"2019-02-05 15:00:35"
+120,120,1,147,299,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 6 left in stock - order soon.",02128,"2019-02-05 15:00:40"
+121,121,1,148,369,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:00:45"
+122,122,1,149,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:00:50"
+123,123,1,150,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:00:55"
+124,124,1,151,159,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:01:02"
+125,125,1,152,140,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 15:01:07"
+126,126,1,153,150,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:01:11"
+127,127,1,154,0,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:01:16"
+128,128,1,155,799,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:01:20"
+129,129,1,156,500,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 12 left in stock - order soon.",02128,"2019-02-05 15:01:23"
+130,130,1,157,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:01:26"
+131,131,1,158,0,0,Proaudiostar,"[!Error: shipped_by Not Found]",0,0,1,1,"Only 10 left in stock - order soon.",02128,"2019-02-05 15:01:29"
+132,132,1,159,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:01:33"
+133,133,1,160,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:01:38"
+134,134,1,161,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:01:43"
+135,136,1,163,0,0,"Alto Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:03:02"
+136,137,1,165,400,0,Amazon.com,Amazon.com,0,0,0,0,"Only 6 left in stock - order soon.",02128,"2019-02-05 15:03:08"
+137,138,1,166,180,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:03:10"
+138,139,1,167,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:03:13"
+139,140,1,168,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:03:16"
+140,141,1,169,250,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:03:19"
+141,142,1,171,300,0,"Cascio Interstate Music, Inc.","[!Error: shipped_by Not Found]",0,0,0,0,"In stock.",02128,"2019-02-05 15:03:24"
+142,143,1,172,319,0,"Pitbull Electronics","[!Error: shipped_by Not Found]",0,0,4,2,"Only 6 left in stock - order soon.",02128,"2019-02-05 15:03:27"
+143,144,1,173,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:03:30"
+144,145,1,174,0,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:03:35"
+145,146,1,175,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,2,2,"Available from these sellers.",02108,"2019-02-05 15:03:40"
+146,147,1,176,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:03:45"
+147,148,1,177,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,4,3,3,"Available from these sellers.",02108,"2019-02-05 15:04:55"
+148,149,1,178,765,0,Amazon.com,Amazon.com,0,0,0,0,"Temporarily out of stock. Order now and we'll deliver when available. We'll e-mail you with an estimated delivery date as soon as we have more information. Your account will only be charged when we ship the item.",02128,"2019-02-05 15:04:58"
+149,150,1,179,52,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:05:00"
+150,151,1,180,380,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:05:03"
+151,152,1,181,820,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,4,2,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:05:06"
+152,153,1,182,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,4,4,13,"Available from these sellers.",02108,"2019-02-05 15:05:11"
+153,154,1,184,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,38,4,31,"Available from these sellers.",02128,"2019-02-05 15:05:17"
+154,155,1,185,298,0,Amazon.com,Amazon.com,0,0,0,0,"Only 2 left in stock (more on the way).",02128,"2019-02-05 15:05:20"
+155,156,1,186,999,1,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 15:05:22"
+156,157,1,187,0,0,"Chicago Music Exchange",Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:05:25"
+157,158,1,189,66,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,3,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:05:31"
+158,159,1,191,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02128,"2019-02-05 15:05:36"
+159,160,1,192,649,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:05:39"
+160,161,1,193,460,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:05:43"
+161,162,1,194,129,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:05:47"
+162,163,1,195,500,0,"The Midi Store",Amazon.com,0,0,4,5,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:05:52"
+163,164,1,197,819,0,Instrumentpro,Amazon.com,0,0,5,5,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:05:57"
+164,165,1,198,449,0,"Mega Big Box","[!Error: shipped_by Not Found]",0,13,4,39,"In stock.",02108,"2019-02-05 15:06:02"
+165,166,1,199,135,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:06"
+166,167,1,200,189,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:10"
+167,168,1,201,189,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:15"
+168,169,1,202,139,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:19"
+169,170,1,203,135,1,n-electronic,"[!Error: shipped_by Not Found]",30,3,0,0,"In Stock.",02108,"2019-02-05 15:06:24"
+170,171,1,204,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:06:29"
+171,172,1,205,155,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:33"
+172,173,1,206,500,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:06:37"
+173,174,1,207,189,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:42"
+174,175,1,208,189,1,n-electronic,"[!Error: shipped_by Not Found]",30,0,0,0,"In Stock.",02108,"2019-02-05 15:06:46"
+175,176,1,209,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,15,"Available from these sellers.",02108,"2019-02-05 15:06:51"
+176,177,1,210,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:06:56"
+177,178,1,212,410,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,11,5,7,"Only 14 left in stock - order soon.",02108,"2019-02-05 15:07:03"
+178,179,1,213,0,0,"Chicago Music Exchange",Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:07:06"
+179,180,1,214,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:07:09"
+180,181,1,215,730,1,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 15:07:12"
+181,182,1,216,385,0,Amazon.com,Amazon.com,0,0,5,4,"Only 1 left in stock (more on the way).",02108,"2019-02-05 15:07:17"
+182,183,1,217,0,0,Proaudiostar,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 15:07:20"
+183,184,1,218,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,4,5,5,"Available from these sellers.",02128,"2019-02-05 15:07:23"
+184,185,1,220,900,0,Amazon.com,Amazon.com,0,0,0,0,"Only 8 left in stock (more on the way).",02128,"2019-02-05 15:07:28"
+185,186,1,221,109,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 15:07:31"
+186,187,1,222,69,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 5 left in stock - order soon.",02128,"2019-02-05 15:07:34"
+187,188,1,223,449,0,Amazon.com,Amazon.com,0,7,4,30,"Only 1 left in stock (more on the way).",02108,"2019-02-05 15:07:39"
+188,189,1,224,350,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 8 left in stock - order soon.",02128,"2019-02-05 15:07:42"
+189,190,1,225,1000,0,Amazon.com,Amazon.com,0,0,0,0,"Only 4 left in stock (more on the way).",02128,"2019-02-05 15:07:45"
+190,191,1,226,525,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 15:07:49"
+191,192,1,227,550,0,Amazon.com,Amazon.com,0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 15:07:52"
+192,193,1,228,119,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:07:54"
+193,194,1,230,315,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 15:08:00"
+194,195,1,233,214,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 15:08:07"
+195,196,1,234,150,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 15:08:10"
+196,197,1,235,185,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:08:13"
+197,198,1,237,239,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:08:18"
+198,199,1,238,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:08:21"
+199,200,1,240,699,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 15:08:26"
+200,201,1,243,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:08:33"
+201,202,1,244,0,0,"8th Street Music","[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:08:36"
+202,203,1,246,299,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:08:41"
+203,204,1,247,329,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:08:44"
+204,205,1,248,109,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 8 left in stock - order soon.",02128,"2019-02-05 15:08:47"
+205,206,1,250,145,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:08:52"
+206,207,1,251,250,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:08:54"
+207,208,1,252,175,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:08:57"
+208,209,1,253,99,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:09:00"
+209,210,1,254,99,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:09:03"
+210,211,1,255,134,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:09:06"
+211,212,1,256,369,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:09:08"
+212,213,1,257,269,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:09:11"
+213,214,1,259,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 15:09:16"
+214,215,1,260,449,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:09:19"
+215,216,1,261,440,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 5 left in stock - order soon.",02128,"2019-02-05 15:09:22"
+216,217,1,263,499,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:09:28"
+217,218,1,264,0,0,"n-Lion(Ship from Japan)Recommend Expedited","[!Error: shipped_by Not Found]",0,0,0,0,"In stock.",02108,"2019-02-05 15:09:32"
+218,219,1,265,900,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 10 left in stock - order soon.",02128,"2019-02-05 15:09:35"
+219,220,1,266,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,7,"Available from these sellers.",02108,"2019-02-05 15:09:36"
+220,221,1,267,95,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 15:09:38"
+221,222,1,268,299,0,"Focus Camera LLC","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:09:39"
+222,223,1,269,380,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 15:09:41"
+223,224,1,270,380,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 15:09:42"
+224,225,1,272,180,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02128,"2019-02-05 15:09:45"
+225,226,1,273,0,0,"Chicago Music Exchange","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 15:09:46"
+226,227,1,274,110,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:09:48"
+227,228,1,275,125,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:09:49"
+228,229,1,276,649,0,"Austin Bazaar",Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:09:52"
+229,230,1,277,0,0,"Outdoor Topia","[!Error: shipped_by Not Found]",150,0,4,5,"In stock.",02108,"2019-02-05 15:09:53"
+230,231,1,278,269,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:09:55"
+231,232,1,279,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:09:56"
+232,233,1,280,550,0,Amazon.com,Amazon.com,0,0,0,0,"Only 1 left in stock (more on the way).",02108,"2019-02-05 15:09:59"
+233,234,1,281,135,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:09:59"
+234,235,1,282,520,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:10:02"
+235,236,1,283,25,0,Amazon.com,Amazon.com,0,0,0,0,"Only 2 left in stock (more on the way).",02108,"2019-02-05 15:10:02"
+236,237,1,284,300,0,"The Midi Store",Amazon.com,0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:10:05"
+237,238,1,285,700,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:10:05"
+238,239,1,286,0,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:10:08"
+239,241,1,288,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Currently unavailable. We don't know when or if this item will be back in stock.",02108,"2019-02-05 15:10:13"
+240,242,1,289,600,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:10:16"
+241,243,1,290,175,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:10:18"
+242,244,1,291,229,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:10:21"
+243,245,1,292,730,1,"Front Row Electronics","[!Error: shipped_by Not Found]",0,3,3,5,"In Stock.",02108,"2019-02-05 15:10:24"
+244,246,1,293,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,5,4,19,"Available from these sellers.",02108,"2019-02-05 15:10:27"
+245,247,1,294,0,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:10:30"
+246,248,1,295,400,0,EverythingMusic,Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:10:33"
+247,249,1,296,1000,0,eStudioStar,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:10:36"
+248,250,1,297,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,4,1,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:10:39"
+249,251,1,298,299,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 6 left in stock - order soon.",02108,"2019-02-05 15:10:44"
+250,252,1,299,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:10:49"
+251,253,1,300,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:10:54"
+252,254,1,301,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,3,"Available from these sellers.",02108,"2019-02-05 15:10:59"
+253,255,1,302,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:03"
+254,256,1,303,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:08"
+255,257,1,304,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:13"
+256,258,1,305,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,1,"Available from these sellers.",location,"2019-02-05 15:11:17"
+257,259,1,306,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:22"
+258,260,1,307,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:26"
+259,261,1,308,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:31"
+260,262,1,309,800,1,Instrumentpro,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02108,"2019-02-05 15:11:37"
+261,263,1,310,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:11:41"
+262,264,1,311,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,3,1,"Available from these sellers.",02108,"2019-02-05 15:11:46"
+263,265,1,312,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:50"
+264,266,1,313,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,1,"Available from these sellers.",02108,"2019-02-05 15:11:55"
+265,267,1,314,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:11:59"
+266,268,1,315,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:12:35"
+267,269,1,316,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,1,"Available from these sellers.",02108,"2019-02-05 15:12:40"
+268,270,1,317,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:12:44"
+269,271,1,318,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:12:49"
+270,272,1,319,0,0,Proaudiostar,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:12:54"
+271,273,1,320,1000,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:12:58"
+272,274,1,321,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:13:01"
+273,275,1,322,89,0,"UnbeatableSale, Inc","[!Error: shipped_by Not Found]",10,0,0,0,"In stock.",02108,"2019-02-05 15:13:06"
+274,276,1,323,750,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:13:11"
+275,277,1,324,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:13:15"
+276,278,1,325,500,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,4,1,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:13:20"
+277,279,1,326,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,3,0,0,"Available from these sellers.",02108,"2019-02-05 15:13:25"
+278,280,1,327,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,8,4,7,"Available from these sellers.",02108,"2019-02-05 15:13:29"
+279,281,1,328,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,10,5,6,"Available from these sellers.",02108,"2019-02-05 15:13:34"
+280,282,1,329,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,3,"Available from these sellers.",02108,"2019-02-05 15:13:39"
+281,283,1,330,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,4,6,"Available from these sellers.",02108,"2019-02-05 15:13:43"
+282,284,1,331,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,3,"Available from these sellers.",02108,"2019-02-05 15:13:48"
+283,285,1,332,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:13:53"
+284,286,1,333,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 9 left in stock - order soon.",02108,"2019-02-05 15:13:56"
+285,287,1,334,370,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:13:59"
+286,288,1,335,66,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:14:02"
+287,289,1,336,649,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:14:05"
+288,290,1,337,429,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:14:08"
+289,291,1,338,500,0,AudioTopia,Amazon.com,0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:14:11"
+290,292,1,339,359,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 2 left in stock - order soon.",location,"2019-02-05 15:14:13"
+291,293,1,340,349,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:14:16"
+292,294,1,341,99,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:14:19"
+293,295,1,342,229,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:14:22"
+294,296,1,343,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:14:25"
+295,297,1,344,0,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:14:28"
+296,298,1,345,85,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",3,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:14:30"
+297,299,1,346,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:14:33"
+298,300,1,347,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:14:36"
+299,301,1,348,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:14:39"
+300,302,1,349,229,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:14:41"
+301,303,1,350,70,1,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",3,0,0,0,"In Stock.",02108,"2019-02-05 15:14:44"
+302,304,1,351,279,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",location,"2019-02-05 15:14:49"
+303,305,1,352,179,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:14:52"
+304,306,1,353,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:14:55"
+305,307,1,354,919,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:14:57"
+306,308,1,355,0,0,"Gear Zone Music",Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:15:00"
+307,309,1,356,0,0,Proaudiostar,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 11 left in stock - order soon.",02108,"2019-02-05 15:15:03"
+308,310,1,357,449,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:15:06"
+309,311,1,358,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:15:09"
+310,312,1,359,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:15:11"
+311,313,1,360,0,0,"Alto Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:15:14"
+312,314,1,361,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:17"
+313,315,1,362,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:20"
+314,316,1,363,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:23"
+315,317,1,364,649,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:25"
+316,318,1,365,700,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 13 left in stock - order soon.",02108,"2019-02-05 15:15:28"
+317,319,1,366,0,0,"Alto Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 8 left in stock - order soon.",02108,"2019-02-05 15:15:31"
+318,320,1,367,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:34"
+319,321,1,368,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:37"
+320,322,1,369,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",location,"2019-02-05 15:15:39"
+321,323,1,370,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:42"
+322,324,1,371,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:45"
+323,325,1,372,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:48"
+324,326,1,373,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:51"
+325,327,1,374,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:54"
+326,328,1,375,0,0,"Audio Watt Store","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:56"
+327,329,1,376,110,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:15:59"
+328,330,1,377,299,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:16:02"
+329,331,1,378,649,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:16:05"
+330,332,1,379,0,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 12 left in stock - order soon.",02108,"2019-02-05 15:16:08"
+331,333,1,380,359,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:16:11"
+332,334,1,381,0,0,"Zorro Sounds","[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:16:14"
+333,335,1,382,95,0,Amazon.com,Amazon.com,0,0,5,1,"Only 3 left in stock (more on the way).",02108,"2019-02-05 15:16:19"
+334,336,1,383,120,0,"8th Street Music","[!Error: shipped_by Not Found]",5,3,2,2,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:16:24"
+335,337,1,384,199,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,13,4,30,"Only 14 left in stock - order soon.",02215,"2019-02-05 15:16:27"
+336,338,1,385,14,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,5,1,"Only 12 left in stock - order soon.",02108,"2019-02-05 15:16:30"
+337,339,1,387,550,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,5,2,"Only 8 left in stock - order soon.",02108,"2019-02-05 15:16:37"
+338,340,1,388,500,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:16:41"
+339,341,1,389,325,1,"Austin Bazaar","[!Error: shipped_by Not Found]",0,11,4,48,"In Stock.",02108,"2019-02-05 15:16:46"
+340,342,1,390,440,0,"Photo Savings",Amazon.com,0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:16:51"
+341,343,1,391,649,0,EverythingMusic,Amazon.com,0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:16:55"
+342,344,1,392,233,0,"Prymaxe Music Supply","[!Error: shipped_by Not Found]",0,0,0,0,"Only 11 left in stock - order soon.",02108,"2019-02-05 15:17:00"
+343,345,1,393,0,0,"Chicago Music Exchange",Amazon.com,0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:17:05"
+344,346,1,394,0,0,GrowTechs,Amazon.com,0,14,5,13,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:17:10"
+345,347,1,395,26,0,Amazon.com,Amazon.com,0,0,0,0,"Usually ships within 1 to 2 months.",02108,"2019-02-05 15:17:15"
+346,348,1,396,699,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 15 left in stock - order soon.",02108,"2019-02-05 15:17:20"
+347,349,1,397,600,0,"Turntable Lab",Amazon.com,0,8,4,20,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:17:25"
+348,350,1,398,159,0,GearTree,"[!Error: shipped_by Not Found]",0,0,4,2,"Only 20 left in stock - order soon.",02108,"2019-02-05 15:17:30"
+349,351,1,399,500,0,"The Midi Store",Amazon.com,0,5,3,10,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:17:35"
+350,352,1,400,0,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,0,5,2,"Only 10 left in stock - order soon.",location,"2019-02-05 15:17:40"
+351,353,1,401,0,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:17:45"
+352,354,1,402,350,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,6,5,2,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:17:50"
+353,355,1,403,259,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:17:55"
+354,356,1,404,500,0,"Zorro Sounds","[!Error: shipped_by Not Found]",0,0,5,1,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:18:00"
+355,357,1,405,79,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 9 left in stock - order soon.",02108,"2019-02-05 15:18:04"
+356,358,1,406,500,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 12 left in stock - order soon.",02108,"2019-02-05 15:18:09"
+357,359,1,407,599,0,"Chicago Music Exchange","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02134,"2019-02-05 15:18:12"
+358,360,1,408,601,0,AudioDeluxe,Amazon.com,0,0,0,0,"Only 10 left in stock - order soon.",02108,"2019-02-05 15:18:17"
+359,361,1,409,0,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:18:22"
+360,362,1,410,368,1,Amazon.com,Amazon.com,0,0,0,0,"In Stock.",02108,"2019-02-05 15:18:26"
+361,363,1,411,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,33,3,61,"Available from these sellers.",02108,"2019-02-05 15:18:31"
+362,364,1,412,0,0,Amazon.com,Amazon.com,0,18,5,13,"Only 7 left in stock (more on the way).",02108,"2019-02-05 15:18:37"
+363,365,1,413,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,14,4,158,"Currently unavailable. We don't know when or if this item will be back in stock.",02108,"2019-02-05 15:18:42"
+364,366,1,414,480,0,AVLGear,"[!Error: shipped_by Not Found]",20,8,5,6,"Only 11 left in stock - order soon.",02108,"2019-02-05 15:18:46"
+365,367,1,415,350,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:18:50"
+366,368,1,416,0,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:18:55"
+367,369,1,417,0,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:18:59"
+368,370,1,419,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:19:08"
+369,371,1,420,440,0,"Focus Camera LLC","[!Error: shipped_by Not Found]",0,0,0,0,"Only 11 left in stock - order soon.",02108,"2019-02-05 15:19:13"
+370,372,1,421,699,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:19:18"
+371,373,1,422,730,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:19:22"
+372,374,1,423,399,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:19:27"
+373,375,1,424,1000,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:19:31"
+374,376,1,425,530,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 10 left in stock - order soon.",02108,"2019-02-05 15:19:36"
+375,377,1,426,399,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:19:41"
+376,378,1,427,730,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:19:46"
+377,379,1,428,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:19:51"
+378,380,1,429,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:19:55"
+379,381,1,430,199,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:19:59"
+380,382,1,431,107,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 16 left in stock - order soon.",02108,"2019-02-05 15:20:04"
+381,383,1,432,147,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 10 left in stock - order soon.",02108,"2019-02-05 15:20:08"
+382,384,1,433,188,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:20:13"
+383,385,1,434,160,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02108,"2019-02-05 15:20:17"
+384,386,1,435,215,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,4,1,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:20:23"
+385,387,1,436,440,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 18 left in stock - order soon.",02108,"2019-02-05 15:20:27"
+386,388,1,437,440,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:20:32"
+387,389,1,438,440,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02108,"2019-02-05 15:20:37"
+388,390,1,439,180,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:20:41"
+389,391,1,440,205,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:20:47"
+390,392,1,441,208,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:20:51"
+391,393,1,442,220,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:20:56"
+392,394,1,443,225,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:21:00"
+393,395,1,444,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:21:05"
+394,396,1,445,40,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,0,0,"Only 20 left in stock - order soon.",02108,"2019-02-05 15:21:10"
+395,397,1,446,475,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:21:14"
+396,398,1,447,314,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:21:19"
+397,399,1,448,720,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:21:24"
+398,400,1,449,540,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:21:28"
+399,401,1,450,175,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:21:33"
+400,402,1,451,119,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:21:38"
+401,403,1,452,400,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02108,"2019-02-05 15:21:42"
+402,404,1,453,599,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:21:47"
+403,405,1,454,180,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:21:52"
+404,406,1,455,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:21:56"
+405,407,1,456,99,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:22:01"
+406,408,1,457,475,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:22:06"
+407,409,1,458,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:22:11"
+408,410,1,459,110,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:22:15"
+409,411,1,460,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:22:20"
+410,412,1,461,699,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:22:25"
+411,413,1,462,17,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:22:30"
+412,414,1,463,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:22:34"
+413,415,1,464,499,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:22:40"
+414,416,1,465,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:22:44"
+415,417,1,466,171,0,"Prymaxe Music Supply","[!Error: shipped_by Not Found]",0,0,5,1,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:22:49"
+416,418,1,467,0,0,"Brook Mays","[!Error: shipped_by Not Found]",0,0,3,5,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:22:54"
+417,419,1,468,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:22:58"
+418,420,1,469,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:23:03"
+419,421,1,470,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,2,"Available from these sellers.",02108,"2019-02-05 15:23:08"
+420,422,1,471,0,0,AVLGear,"[!Error: shipped_by Not Found]",80,0,2,3,,02108,"2019-02-05 15:23:13"
+421,423,1,472,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:23:17"
+422,424,1,473,40,0,Amazon.com,Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:23:22"
+423,425,1,474,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:23:26"
+424,426,1,475,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:23:31"
+425,427,1,476,0,0,AVLGear,"[!Error: shipped_by Not Found]",20,0,0,0,,02108,"2019-02-05 15:23:35"
+426,428,1,477,500,0,AVLGear,"[!Error: shipped_by Not Found]",20,0,0,0,,02108,"2019-02-05 15:23:40"
+427,429,1,478,170,0,GearTree,"[!Error: shipped_by Not Found]",0,0,3,3,"Only 6 left in stock - order soon.",02108,"2019-02-05 15:23:45"
+428,430,1,479,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,11,4,5,"Available from these sellers.",02108,"2019-02-05 15:23:49"
+429,431,1,480,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,4,"Available from these sellers.",02108,"2019-02-05 15:23:54"
+430,432,1,481,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Currently unavailable. We don't know when or if this item will be back in stock.",02108,"2019-02-05 15:23:59"
+431,433,1,482,599,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:24:03"
+432,434,1,483,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,15,5,14,"Available from these sellers.",02108,"2019-02-05 15:24:09"
+433,435,1,484,266,0,"Brook Mays","[!Error: shipped_by Not Found]",0,36,4,142,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:24:14"
+434,436,1,485,99,0,Amazon.com,Amazon.com,0,0,0,0,"Only 1 left in stock (more on the way).",02108,"2019-02-05 15:24:19"
+435,437,1,486,299,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,5,2,"Only 6 left in stock - order soon.",02108,"2019-02-05 15:24:24"
+436,438,1,487,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,12,4,28,"Available from these sellers.",02108,"2019-02-05 15:24:29"
+437,439,1,488,399,0,"Turntable Lab",Amazon.com,0,0,5,5,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:24:34"
+438,440,1,489,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,17,3,77,"Available from these sellers.",02108,"2019-02-05 15:24:39"
+439,441,1,490,0,0,"Gear Zone Music",Amazon.com,0,0,5,1,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:24:44"
+440,442,1,491,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,1,"Available from these sellers.",02108,"2019-02-05 15:24:51"
+441,443,1,492,300,0,"Refurb Music","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:24:56"
+442,444,1,493,179,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:25:00"
+443,445,1,494,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:25:05"
+444,446,1,495,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,3,3,15,"Available from these sellers.",02108,"2019-02-05 15:25:11"
+445,447,1,496,114,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 7 left in stock - order soon.",02108,"2019-02-05 15:25:15"
+446,448,1,497,8,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,5,1,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:25:20"
+447,449,1,498,125,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02108,"2019-02-05 15:25:25"
+448,450,1,499,680,0,"Photo Savings",Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:25:30"
+449,451,1,500,650,0,"Photo Savings",Amazon.com,0,0,0,0,"Only 4 left in stock - order soon.",02108,"2019-02-05 15:25:35"
+450,452,1,501,650,0,"Photo Savings",Amazon.com,0,0,0,0,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:25:40"
+451,453,1,503,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:25:48"
+452,454,1,505,25,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,0,0,"Only 19 left in stock - order soon.",02108,"2019-02-05 15:25:54"
+453,455,1,508,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02108,"2019-02-05 15:26:04"
+454,456,1,509,249,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02108,"2019-02-05 15:26:08"
+455,457,1,534,599,1,Amazon.com,Amazon.com,0,21,5,21,"In Stock.",02108,"2019-02-05 15:27:09"
+456,458,1,535,300,0,"Austin Bazaar","[!Error: shipped_by Not Found]",0,0,5,4,"Only 8 left in stock - order soon.",02108,"2019-02-05 15:27:14"
+457,459,1,537,600,0,"Zorro Sounds",Amazon.com,0,0,5,3,"Only 2 left in stock - order soon.",02108,"2019-02-05 15:27:22"
+458,460,2,548,299,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:39:01"
+459,461,2,549,620,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:39:03"
+460,462,2,550,330,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:39:05"
+461,463,2,551,599,0,NULL,NULL,NULL,NULL,0,0,"Available Soon",NULL,"2019-02-05 15:39:08"
+462,464,2,552,1499,1,NULL,NULL,NULL,NULL,5,14,"In Stock!",NULL,"2019-02-05 15:39:10"
+463,465,2,553,4499,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:39:12"
+464,466,2,554,1000,1,NULL,NULL,NULL,NULL,5,24,"In Stock!",NULL,"2019-02-05 15:39:14"
+465,467,2,555,899,1,NULL,NULL,NULL,NULL,5,15,"In Stock!",NULL,"2019-02-05 15:39:17"
+466,468,2,556,4000,1,NULL,NULL,NULL,NULL,5,17,"In Stock!",NULL,"2019-02-05 15:39:19"
+467,469,2,557,1000,1,NULL,NULL,NULL,NULL,5,16,"In Stock!",NULL,"2019-02-05 15:39:21"
+468,470,2,558,330,1,NULL,NULL,NULL,NULL,5,15,"In Stock!",NULL,"2019-02-05 15:39:23"
+469,471,2,559,599,1,NULL,NULL,NULL,NULL,5,15,"In Stock!",NULL,"2019-02-05 15:39:26"
+470,472,2,560,599,1,NULL,NULL,NULL,NULL,5,29,"In Stock!",NULL,"2019-02-05 15:39:28"
+471,473,2,561,520,1,NULL,NULL,NULL,NULL,5,47,"In Stock!",NULL,"2019-02-05 15:39:30"
+472,474,2,562,3599,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:39:32"
+473,475,2,563,4299,0,NULL,NULL,NULL,NULL,0,0,,NULL,"2019-02-05 15:39:34"
+474,476,2,564,730,1,NULL,NULL,NULL,NULL,5,25,"In Stock!",NULL,"2019-02-05 15:39:37"
+475,477,2,565,799,1,NULL,NULL,NULL,NULL,5,36,"In Stock!",NULL,"2019-02-05 15:39:39"
+476,478,2,566,330,1,NULL,NULL,NULL,NULL,5,32,"In Stock!",NULL,"2019-02-05 15:39:41"
+477,479,2,567,700,1,NULL,NULL,NULL,NULL,4,54,"In Stock!",NULL,"2019-02-05 15:39:43"
+478,480,2,568,1499,1,NULL,NULL,NULL,NULL,5,11,"In Stock!",NULL,"2019-02-05 15:39:46"
+479,481,2,569,750,1,NULL,NULL,NULL,NULL,4,14,"In Stock!",NULL,"2019-02-05 15:39:48"
+480,482,2,570,1300,1,NULL,NULL,NULL,NULL,5,10,"In Stock!",NULL,"2019-02-05 15:39:50"
+481,483,2,571,499,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:39:52"
+482,484,2,572,4199,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:39:55"
+483,485,2,573,1080,1,NULL,NULL,NULL,NULL,5,3,"In Stock!",NULL,"2019-02-05 15:39:57"
+484,486,2,574,150,1,NULL,NULL,NULL,NULL,5,13,"In Stock!",NULL,"2019-02-05 15:39:59"
+485,487,2,575,600,1,NULL,NULL,NULL,NULL,4,2,"In Stock!",NULL,"2019-02-05 15:40:01"
+486,488,2,576,150,1,NULL,NULL,NULL,NULL,5,13,"In Stock!",NULL,"2019-02-05 15:40:04"
+487,489,2,577,1999,1,NULL,NULL,NULL,NULL,5,26,"In Stock!",NULL,"2019-02-05 15:40:06"
+488,490,2,578,440,1,NULL,NULL,NULL,NULL,5,24,"In Stock!",NULL,"2019-02-05 15:40:08"
+489,491,2,579,1600,1,NULL,NULL,NULL,NULL,5,39,"In Stock!",NULL,"2019-02-05 15:40:10"
+490,492,2,580,89,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:40:13"
+491,493,2,581,59,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:40:15"
+492,494,2,582,500,1,NULL,NULL,NULL,NULL,5,31,"In Stock!",NULL,"2019-02-05 15:40:17"
+493,495,2,583,700,1,NULL,NULL,NULL,NULL,5,9,"In Stock!",NULL,"2019-02-05 15:40:19"
+494,496,2,584,1400,1,NULL,NULL,NULL,NULL,5,14,"In Stock!",NULL,"2019-02-05 15:40:22"
+495,497,2,585,200,1,NULL,NULL,NULL,NULL,5,7,"In Stock!",NULL,"2019-02-05 15:40:24"
+496,498,2,586,649,1,NULL,NULL,NULL,NULL,5,3,"In Stock!",NULL,"2019-02-05 15:40:26"
+497,499,2,587,150,1,NULL,NULL,NULL,NULL,5,19,"In Stock!",NULL,"2019-02-05 15:40:28"
+498,500,2,588,460,1,NULL,NULL,NULL,NULL,5,32,"In Stock!",NULL,"2019-02-05 15:40:30"
+499,501,2,589,5999,1,NULL,NULL,NULL,NULL,0,0,,NULL,"2019-02-05 15:40:33"
+500,502,2,590,1000,1,NULL,NULL,NULL,NULL,4,9,"In Stock!",NULL,"2019-02-05 15:40:35"
+501,503,2,591,3000,1,NULL,NULL,NULL,NULL,5,14,"In Stock!",NULL,"2019-02-05 15:40:37"
+502,504,2,592,3999,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:40:39"
+503,505,2,593,600,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:40:42"
+504,506,2,594,4399,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:40:44"
+505,507,2,595,59,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:40:46"
+506,508,2,596,1800,1,NULL,NULL,NULL,NULL,3,3,"In Stock!",NULL,"2019-02-05 15:40:48"
+507,509,2,597,2999,1,NULL,NULL,NULL,NULL,5,15,"In Stock!",NULL,"2019-02-05 15:40:51"
+508,510,2,598,3500,1,NULL,NULL,NULL,NULL,5,11,"In Stock!",NULL,"2019-02-05 15:40:53"
+509,511,2,599,1349,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:40:55"
+510,512,2,600,9750,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:40:57"
+511,513,2,601,410,1,NULL,NULL,NULL,NULL,5,27,"In Stock!",NULL,"2019-02-05 15:41:00"
+512,514,2,602,3600,1,NULL,NULL,NULL,NULL,4,11,"In Stock!",NULL,"2019-02-05 15:41:02"
+513,515,2,603,600,1,NULL,NULL,NULL,NULL,5,41,"In Stock!",NULL,"2019-02-05 15:41:04"
+514,516,2,604,380,1,NULL,NULL,NULL,NULL,5,11,"In Stock!",NULL,"2019-02-05 15:41:06"
+515,517,2,605,150,1,NULL,NULL,NULL,NULL,5,17,"In Stock!",NULL,"2019-02-05 15:41:09"
+516,518,2,606,1500,1,NULL,NULL,NULL,NULL,4,10,"In Stock!",NULL,"2019-02-05 15:41:11"
+517,519,2,607,89,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:41:13"
+518,520,2,608,49,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:41:15"
+519,521,2,609,500,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:41:17"
+520,522,2,610,1500,1,NULL,NULL,NULL,NULL,5,9,"In Stock!",NULL,"2019-02-05 15:41:20"
+521,523,2,611,700,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:41:22"
+522,524,2,612,499,1,NULL,NULL,NULL,NULL,5,23,"In Stock!",NULL,"2019-02-05 15:41:24"
+523,525,2,613,1100,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:41:27"
+524,526,2,614,2299,1,NULL,NULL,NULL,NULL,5,11,"In Stock!",NULL,"2019-02-05 15:41:29"
+525,527,2,615,500,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:41:31"
+526,528,2,616,300,1,NULL,NULL,NULL,NULL,5,13,"In Stock!",NULL,"2019-02-05 15:41:33"
+527,529,2,617,1799,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:41:35"
+528,530,2,618,500,1,NULL,NULL,NULL,NULL,5,7,"In Stock!",NULL,"2019-02-05 15:41:38"
+529,531,2,619,900,1,NULL,NULL,NULL,NULL,5,1,"In Stock!",NULL,"2019-02-05 15:41:40"
+530,532,2,620,150,1,NULL,NULL,NULL,NULL,4,9,"In Stock!",NULL,"2019-02-05 15:41:42"
+531,533,2,621,1000,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:41:44"
+532,534,2,622,420,1,NULL,NULL,NULL,NULL,5,3,"In Stock!",NULL,"2019-02-05 15:41:46"
+533,535,2,623,500,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:41:49"
+534,536,2,624,649,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:41:51"
+535,537,2,625,1300,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:41:53"
+536,538,2,626,300,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:41:55"
+537,539,2,627,1299,1,NULL,NULL,NULL,NULL,5,1,"In Stock!",NULL,"2019-02-05 15:41:58"
+538,540,2,628,53,1,NULL,NULL,NULL,NULL,5,18,"In Stock!",NULL,"2019-02-05 15:42:00"
+539,541,2,629,100,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:42:02"
+540,542,2,630,1900,1,NULL,NULL,NULL,NULL,4,17,"In Stock!",NULL,"2019-02-05 15:42:04"
+541,543,2,631,300,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:42:07"
+542,544,2,632,1199,1,NULL,NULL,NULL,NULL,4,7,"In Stock!",NULL,"2019-02-05 15:42:09"
+543,545,2,633,900,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:42:11"
+544,546,2,634,500,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:42:13"
+545,547,2,635,1100,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:42:15"
+546,548,2,636,1999,1,NULL,NULL,NULL,NULL,5,14,"In Stock!",NULL,"2019-02-05 15:42:18"
+547,549,2,637,2199,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:42:20"
+548,550,2,638,299,1,NULL,NULL,NULL,NULL,5,23,"In Stock!",NULL,"2019-02-05 15:42:22"
+549,551,2,639,600,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:42:24"
+550,552,2,640,500,1,NULL,NULL,NULL,NULL,5,23,"In Stock!",NULL,"2019-02-05 15:42:27"
+551,553,2,641,900,1,NULL,NULL,NULL,NULL,5,8,"In Stock!",NULL,"2019-02-05 15:42:29"
+552,554,2,642,820,1,NULL,NULL,NULL,NULL,5,14,"In Stock!",NULL,"2019-02-05 15:42:31"
+553,555,2,643,500,1,NULL,NULL,NULL,NULL,5,13,"In Stock!",NULL,"2019-02-05 15:42:33"
+554,556,2,644,300,1,NULL,NULL,NULL,NULL,5,8,"In Stock!",NULL,"2019-02-05 15:42:36"
+555,557,2,645,370,1,NULL,NULL,NULL,NULL,5,12,"In Stock!",NULL,"2019-02-05 15:42:38"
+556,558,2,646,300,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:42:40"
+557,559,2,647,1300,1,NULL,NULL,NULL,NULL,5,11,"In Stock!",NULL,"2019-02-05 15:42:42"
+558,560,2,648,2915,1,NULL,NULL,NULL,NULL,5,3,"In Stock!",NULL,"2019-02-05 15:42:44"
+559,561,2,649,2915,1,NULL,NULL,NULL,NULL,5,7,"In Stock!",NULL,"2019-02-05 15:42:47"
+560,562,2,650,385,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:42:49"
+561,563,2,651,1799,1,NULL,NULL,NULL,NULL,4,3,"In Stock!",NULL,"2019-02-05 15:42:51"
+562,564,2,652,2915,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:42:53"
+563,565,2,653,515,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:42:56"
+564,566,2,654,1000,0,NULL,NULL,NULL,NULL,5,8,"Available Soon",NULL,"2019-02-05 15:42:58"
+565,567,2,655,49,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:43:00"
+566,568,2,656,600,1,NULL,NULL,NULL,NULL,5,2,"In Stock!",NULL,"2019-02-05 15:43:02"
+567,569,2,657,300,1,NULL,NULL,NULL,NULL,4,22,"In Stock!",NULL,"2019-02-05 15:43:05"
+568,570,2,658,300,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:43:07"
+569,571,2,659,999,1,NULL,NULL,NULL,NULL,5,14,"In Stock!",NULL,"2019-02-05 15:43:09"
+570,572,2,660,5950,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:43:11"
+571,573,2,661,1000,1,NULL,NULL,NULL,NULL,3,2,"In Stock!",NULL,"2019-02-05 15:43:13"
+572,574,2,662,5499,0,NULL,NULL,NULL,NULL,0,0,"Special Order",NULL,"2019-02-05 15:43:16"
+573,575,2,663,520,1,NULL,NULL,NULL,NULL,4,11,"In Stock!",NULL,"2019-02-05 15:43:18"
+574,576,2,664,60,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:20"
+575,577,2,665,35,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:23"
+576,578,2,666,165,1,NULL,NULL,NULL,NULL,5,4,"In Stock!",NULL,"2019-02-05 15:43:25"
+577,579,2,667,110,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:27"
+578,580,2,668,249,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:29"
+579,581,2,669,499,1,NULL,NULL,NULL,NULL,4,7,"In Stock!",NULL,"2019-02-05 15:43:31"
+580,582,2,670,2564,1,NULL,NULL,NULL,NULL,5,26,"In Stock!",NULL,"2019-02-05 15:43:34"
+581,583,2,671,630,1,NULL,NULL,NULL,NULL,5,7,"In Stock!",NULL,"2019-02-05 15:43:36"
+582,584,2,672,1699,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:38"
+583,585,2,673,159,1,NULL,NULL,NULL,NULL,4,4,"In Stock!",NULL,"2019-02-05 15:43:40"
+584,586,2,674,53,1,NULL,NULL,NULL,NULL,4,4,"In Stock!",NULL,"2019-02-05 15:43:43"
+585,587,2,675,144,1,NULL,NULL,NULL,NULL,4,2,"In Stock!",NULL,"2019-02-05 15:43:45"
+586,588,2,676,249,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:47"
+587,589,2,677,279,1,NULL,NULL,NULL,NULL,5,3,"In Stock!",NULL,"2019-02-05 15:43:49"
+588,590,2,678,300,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:43:51"
+589,591,2,679,1500,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:54"
+590,592,2,680,1500,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:43:56"
+591,593,2,681,300,1,NULL,NULL,NULL,NULL,4,3,"In Stock!",NULL,"2019-02-05 15:43:58"
+592,594,2,682,750,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:44:01"
+593,595,2,683,750,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:44:03"
+594,596,2,684,750,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:44:05"
+595,597,2,685,750,1,NULL,NULL,NULL,NULL,5,6,"In Stock!",NULL,"2019-02-05 15:44:07"
+596,598,2,686,54,1,NULL,NULL,NULL,NULL,3,4,"In Stock!",NULL,"2019-02-05 15:44:10"
+597,599,2,687,380,1,NULL,NULL,NULL,NULL,5,7,"In Stock!",NULL,"2019-02-05 15:44:12"
+598,600,2,688,300,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:44:14"
+599,601,2,689,663,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:44:16"
+600,602,2,690,650,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:44:19"
+601,603,2,691,2700,1,NULL,NULL,NULL,NULL,5,1,"In Stock!",NULL,"2019-02-05 15:44:21"
+602,604,2,692,35000,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:44:23"
+603,605,2,693,1399,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:44:25"
+604,606,2,694,1399,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:44:28"
+605,607,2,695,1399,1,NULL,NULL,NULL,NULL,0,0,"In Stock!",NULL,"2019-02-05 15:44:30"
+606,608,2,696,1500,0,NULL,NULL,NULL,NULL,5,6,"Arriving Soon",NULL,"2019-02-05 15:44:32"
+607,609,2,697,7999,0,NULL,NULL,NULL,NULL,5,12,,NULL,"2019-02-05 15:44:34"
+608,610,2,698,400,0,NULL,NULL,NULL,NULL,5,14,"More On The Way",NULL,"2019-02-05 15:44:37"
+609,611,2,699,1000,0,NULL,NULL,NULL,NULL,5,5,"Available Soon",NULL,"2019-02-05 15:44:39"
+610,612,2,700,599,0,NULL,NULL,NULL,NULL,5,3,"Available Soon",NULL,"2019-02-05 15:44:41"
+611,613,2,701,400,0,NULL,NULL,NULL,NULL,5,23,"Available Soon",NULL,"2019-02-05 15:44:43"
+612,614,2,702,2799,1,NULL,NULL,NULL,NULL,5,29,"In Stock!",NULL,"2019-02-05 15:44:45"
+613,615,2,703,1900,0,NULL,NULL,NULL,NULL,4,5,"Arriving Soon",NULL,"2019-02-05 15:44:48"
+614,616,2,704,300,0,NULL,NULL,NULL,NULL,4,13,"Arriving Soon",NULL,"2019-02-05 15:44:50"
+615,617,2,705,2299,1,NULL,NULL,NULL,NULL,5,5,"In Stock!",NULL,"2019-02-05 15:44:52"
+616,618,2,706,1000,0,NULL,NULL,NULL,NULL,5,1,"Arriving Soon",NULL,"2019-02-05 15:44:54"
+617,619,2,707,550,0,NULL,NULL,NULL,NULL,4,12,"Arriving Soon",NULL,"2019-02-05 15:44:57"
+618,620,2,708,1799,0,NULL,NULL,NULL,NULL,5,7,"Arriving Soon",NULL,"2019-02-05 15:44:59"
+619,621,2,709,1599,0,NULL,NULL,NULL,NULL,0,0,"Arriving Soon",NULL,"2019-02-05 15:45:01"
+620,622,2,710,1999,0,NULL,NULL,NULL,NULL,5,7,"Available Soon",NULL,"2019-02-05 15:45:04"
+621,623,2,711,2299,0,NULL,NULL,NULL,NULL,5,8,"We Can Get It Fast!",NULL,"2019-02-05 15:45:06"
+622,624,2,712,299,0,NULL,NULL,NULL,NULL,5,1,"Available Tomorrow (February 5)",NULL,"2019-02-05 15:45:08"
+623,625,2,713,1299,0,NULL,NULL,NULL,NULL,5,1,"Available Soon",NULL,"2019-02-05 15:45:11"
+624,626,2,714,59,0,NULL,NULL,NULL,NULL,0,0,"More On The Way",NULL,"2019-02-05 15:45:13"
+625,627,2,715,59,0,NULL,NULL,NULL,NULL,0,0,"More On The Way",NULL,"2019-02-05 15:45:15"
+626,628,2,716,420,0,NULL,NULL,NULL,NULL,4,3,"Available Soon",NULL,"2019-02-05 15:45:18"
+627,629,2,717,299,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:45:20"
+628,630,2,718,350,0,NULL,NULL,NULL,NULL,5,9,"Arriving Soon",NULL,"2019-02-05 15:45:22"
+629,631,2,719,999,0,NULL,NULL,NULL,NULL,0,0,"Special Order",NULL,"2019-02-05 15:45:24"
+630,632,2,720,599,0,NULL,NULL,NULL,NULL,5,1,"We Can Get It Fast!",NULL,"2019-02-05 15:45:26"
+631,633,2,721,9999,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:45:29"
+632,634,2,722,1099,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:45:31"
+633,635,2,723,1099,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:45:33"
+634,636,2,724,750,0,NULL,NULL,NULL,NULL,0,0,"New Item - Coming Soon!",NULL,"2019-02-05 15:45:35"
+635,637,2,725,999,0,NULL,NULL,NULL,NULL,0,0,"Special Order",NULL,"2019-02-05 15:45:38"
+636,638,2,726,3495,0,NULL,NULL,NULL,NULL,5,8,"Arriving Soon",NULL,"2019-02-05 15:45:40"
+637,639,2,727,1929,0,NULL,NULL,NULL,NULL,0,0,"Special Order",NULL,"2019-02-05 15:45:42"
+638,640,2,728,1149,0,NULL,NULL,NULL,NULL,0,0,"Special Order",NULL,"2019-02-05 15:45:44"
+639,641,2,729,1399,0,NULL,NULL,NULL,NULL,0,0,"We Can Get It Fast!",NULL,"2019-02-05 15:45:47"
+640,642,2,730,1000,0,NULL,NULL,NULL,NULL,0,0,"More On The Way",NULL,"2019-02-05 15:45:49"
+641,643,2,731,1000,0,NULL,NULL,NULL,NULL,0,0,"More On The Way",NULL,"2019-02-05 15:45:51"
+642,644,1,732,80,0,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",4,0,0,0,"Only 9 left in stock - order soon.",02128,"2019-02-05 19:22:36"
+643,645,1,733,300,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 19:22:40"
+644,646,1,734,144,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 19:23:06"
+645,647,1,735,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 19:23:18"
+646,648,1,736,500,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,3,1,"Only 12 left in stock - order soon.",02128,"2019-02-05 19:23:23"
+647,649,1,737,215,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:23:28"
+648,650,1,738,500,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 12 left in stock - order soon.",02128,"2019-02-05 19:23:33"
+649,651,1,739,0,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,5,1,"Only 11 left in stock - order soon.",02128,"2019-02-05 19:23:57"
+650,652,1,740,315,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 19:24:01"
+651,653,1,741,440,0,"Photo Savings","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 19:24:06"
+652,654,1,742,259,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:24:11"
+653,655,1,743,290,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,5,3,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:24:30"
+654,656,1,744,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,8,4,17,"Available from these sellers.",02128,"2019-02-05 19:24:35"
+655,657,1,745,450,0,GearTree,"[!Error: shipped_by Not Found]",0,0,5,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:24:40"
+656,658,1,746,199,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:25:03"
+657,659,1,747,225,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 19:25:08"
+658,660,1,748,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,3,4,"Available from these sellers.",02128,"2019-02-05 19:25:13"
+659,661,1,749,107,0,"Ally Commerce","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 19:25:19"
+660,662,1,750,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 19:25:24"
+661,663,1,751,499,0,Amazon.com,Amazon.com,0,12,4,19,"Only 8 left in stock (more on the way).",02128,"2019-02-05 19:25:59"
+662,665,1,753,259,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02128,"2019-02-05 19:28:00"
+663,666,1,754,89,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 4 left in stock - order soon.",02128,"2019-02-05 19:28:04"
+664,667,1,755,470,0,Amazon.com,Amazon.com,0,0,0,0,"Only 15 left in stock - order soon.",02128,"2019-02-05 19:28:09"
+665,668,1,756,0,0,Amazon.com,Amazon.com,0,0,5,2,"Only 3 left in stock (more on the way).",02128,"2019-02-05 19:28:14"
+666,669,1,757,165,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 19:30:39"
+667,670,1,758,1000,0,"Adorama Camera","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",location,"2019-02-05 19:30:44"
+668,671,1,759,340,0,"Quantum Networks",Amazon.com,0,0,5,1,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:30:49"
+669,672,1,760,900,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:32:26"
+670,673,1,761,85,1,"Pirates Rock Apparel","[!Error: shipped_by Not Found]",3,0,0,0,"In Stock.",02128,"2019-02-05 19:32:30"
+671,674,1,762,300,1,Amazon.com,Amazon.com,0,0,5,1,"In Stock.",02128,"2019-02-05 19:32:36"
+672,675,1,763,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,8,4,10,"Available from these sellers.",02128,"2019-02-05 19:33:24"
+673,676,1,764,410,0,Amazon.com,Amazon.com,0,72,4,78,"Only 17 left in stock (more on the way).",02128,"2019-02-05 19:33:29"
+674,677,1,765,990,0,Amazon.com,Amazon.com,0,0,5,1,"Only 1 left in stock (more on the way).",02128,"2019-02-05 19:33:34"
+675,678,1,766,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,5,6,"Available from these sellers.",02128,"2019-02-05 19:34:19"
+676,679,1,767,699,0,Kraft-Music,"[!Error: shipped_by Not Found]",0,0,5,3,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:34:24"
+677,680,1,768,250,1,Audiosavings,"[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 19:36:18"
+678,681,1,769,695,0,Instrumentpro,Amazon.com,0,17,4,7,"Only 15 left in stock - order soon.",02128,"2019-02-05 19:36:23"
+679,682,1,770,749,0,"Alto Music","[!Error: shipped_by Not Found]",0,0,5,3,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:36:28"
+680,683,1,771,300,0,"Photo Savings",Amazon.com,0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:36:33"
+681,684,1,772,599,0,"Express Music Instruments",Amazon.com,0,3,5,3,"Only 19 left in stock - order soon.",02128,"2019-02-05 19:36:38"
+682,685,1,773,0,0,Instrumentpro,Amazon.com,0,0,4,3,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:37:30"
+683,686,1,774,499,0,"Cottonwood Music Emporium",Amazon.com,0,53,4,111,"Only 20 left in stock - order soon.",02128,"2019-02-05 19:37:36"
+684,687,1,775,235,0,Audiosavings,"[!Error: shipped_by Not Found]",0,0,5,3,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:37:41"
+685,688,1,776,300,0,"Quantum Networks",Amazon.com,0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 19:38:09"
+686,689,1,777,50,0,"Russo Music Center","[!Error: shipped_by Not Found]",0,0,0,0,"Only 15 left in stock - order soon.",02128,"2019-02-05 19:39:30"
+687,690,1,778,300,0,"Focus Camera LLC","[!Error: shipped_by Not Found]",0,0,0,0,"Only 3 left in stock - order soon.",02128,"2019-02-05 19:39:35"
+688,691,1,779,140,0,"Future Station (polite response at any time)",Amazon.com,0,0,4,1,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:39:39"
+689,692,1,780,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Currently unavailable. We don't know when or if this item will be back in stock.",02128,"2019-02-05 19:39:56"
+690,693,1,781,0,0,"Zorro Sounds","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:40:01"
+691,694,1,782,0,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:40:06"
+692,695,1,783,0,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:40:11"
+693,696,1,784,630,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:40:15"
+694,697,1,785,0,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:40:21"
+695,698,1,786,249,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:40:26"
+696,699,1,787,450,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 19:40:31"
+697,700,1,788,0,0,GearNuts,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 13 left in stock - order soon.",02128,"2019-02-05 19:40:48"
+698,701,1,789,372,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",location,"2019-02-05 19:40:53"
+699,702,1,790,399,0,GearTree,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 2 left in stock - order soon.",02128,"2019-02-05 19:40:58"
+700,703,1,791,0,0,"Vintage King Audio","[!Error: shipped_by Not Found]",0,0,0,0,"Only 1 left in stock - order soon.",02128,"2019-02-05 19:41:02"
+701,704,1,792,600,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:41:59"
+702,705,1,793,5,1,AprilMall,"[!Error: shipped_by Not Found]",6,0,0,0,"In Stock.",02128,"2019-02-05 19:42:04"
+703,706,1,794,649,0,"Front Row Electronics","[!Error: shipped_by Not Found]",0,0,0,0,"Only 7 left in stock - order soon.",02128,"2019-02-05 19:42:09"
+704,707,1,795,4,1,AprilMall,"[!Error: shipped_by Not Found]",6,0,0,0,"In Stock.",02128,"2019-02-05 19:42:13"
+705,708,1,796,5,1,AprilMall,"[!Error: shipped_by Not Found]",6,0,0,0,"In Stock.",02128,"2019-02-05 19:42:18"
+706,709,1,797,0,0,"[!Error: seller Could Not Parse]","
+    
+
+
+    
+    
+        
+
+
+
+
+    
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+
+        
+        
+        
+        
+        
+        
+
+        
+            
+        
+
+        
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+",0,0,0,0,"Available from these sellers.",02128,"2019-02-05 19:42:23"
+707,710,1,798,11,1,"PwrON USA","[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 19:44:08"
+708,711,1,799,10,1,"PwrON USA","[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 19:44:12"
+709,712,1,800,649,0,EverythingMusic,"[!Error: shipped_by Not Found]",0,0,0,0,"Only 5 left in stock - order soon.",02128,"2019-02-05 19:44:17"
+710,713,1,801,13,1,"PwrON USA","[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 19:44:44"
+711,714,1,802,12,1,"PwrON USA","[!Error: shipped_by Not Found]",0,0,0,0,"In Stock.",02128,"2019-02-05 19:44:48"
