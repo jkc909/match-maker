@@ -4,9 +4,9 @@ const MatchTile = props => {
 
   return (
     <div className="product-container">
-      <p> Hiyeeee from the MatchTile </p>
-      <img src={props.static_data.main_image} />
-      <p> <h4>Product Name:</h4> {props.static_data.product_name} </p>
+      <h4> {props.static_data.product_name} </h4>
+      <img className="product-image" src={props.static_data.main_image} />
+      <p>  </p>
 
       <p> 
       <h4>URL:</h4> 

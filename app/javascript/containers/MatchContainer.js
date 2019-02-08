@@ -18,10 +18,6 @@ class MatchContainer extends Component {
     })
   }
 
-
-
-
-
   render() {
 
     return (

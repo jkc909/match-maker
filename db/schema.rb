@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_05_040210) do
+ActiveRecord::Schema.define(version: 2019_02_07_171439) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -52,8 +52,25 @@ ActiveRecord::Schema.define(version: 2019_02_05_040210) do
     t.index ["users_id"], name: "index_matches_on_users_id"
   end
 
+  create_table "nomatches", force: :cascade do |t|
+    t.bigint "static_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["static_id"], name: "index_nomatches_on_static_id"
+  end
+
+  create_table "projects", force: :cascade do |t|
+    t.bigint "user_id"
+    t.bigint "static_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["static_id"], name: "index_projects_on_static_id"
+    t.index ["user_id"], name: "index_projects_on_user_id"
+  end
+
   create_table "retailers", force: :cascade do |t|
     t.string "name", null: false
+    t.string "logo"
   end
 
   create_table "statics", force: :cascade do |t|

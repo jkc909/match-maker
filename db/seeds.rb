@@ -8,8 +8,8 @@
 
 
 retailers = [
-	{id: 1, name: 'Amazon'}, 
-	{id: 2, name: 'Sweetwater'}
+	{id: 1, name: 'Amazon', logo: 'http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png'}, 
+	{id: 2, name: 'Sweetwater', logo: 'http://www.seeklogovector.com/wp-content/uploads/2018/09/sweetwater-logo-vector.png'}
 ]
 
 
@@ -126,5 +126,32 @@ csv.each do |row|
 end
 
 
+users = [
+  { email: "Joe@gmail.com", password: "password" },
+  { email: "Louis@gmail.com", password: "password" },
+  { email: "Gil@gmail.com", password: "password" },
+  { email: "Tony@gmail.com", password: "password" },
+  { email: "AmyLynn@gmail.com", password: "password" },
+  { email: "Admin@gmail.com", password: "password" },
+  { email: "Brianna@gmail.com", password: "password" },
+  { email: "Nick@gmail.com", password: "password" },
+  { email: "Casi@gmail.com", password: "password" },
+  { email: "Admin@alphareviews.com", password: "password" },
+]
+
+users.each do |user|
+  User.create!(user)
+end
 
 
+projects = [
+  {user_id: 1, static_id: 2},
+  {user_id: 1, static_id: 3},
+  {user_id: 1, static_id: 4},
+  {user_id: 1, static_id: 5},
+  {user_id: 1, static_id: 6},
+]
+
+projects.each do |project|
+  Project.create!(project)
+end

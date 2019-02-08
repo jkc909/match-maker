@@ -3,11 +3,30 @@ a {
 }
 
 .product-container {
-	border-style: solid;
+	display:block;
+	width: 100%;
+	height: 700px;
+	// background-color:#475;
+	overflow:scroll;
+	border-style:solid;
 	padding: 10px;
 }
 
-.vl {
-  border-left: 6px solid green;
-  height: 50px;
+// .product-image {
+// 	width: 98%;
+// 	height: 50%
+// }
+
+.row {
+	max-width: 86%
+}
+
+td{
+    width: 200px;
+    max-width: 200px; /* add this */
+    height: 50px;
+    max-height: 50px;
+    // white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
