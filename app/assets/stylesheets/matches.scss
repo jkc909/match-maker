@@ -12,13 +12,19 @@ a {
 	padding: 10px;
 }
 
-// .product-image {
-// 	width: 98%;
-// 	height: 50%
-// }
+.product-image {
+	width: 98%;
+	height: 300px;
+	overflow:scroll;
+}
 
 .row {
 	max-width: 86%
+}
+
+.retailer-image {
+	width: 200px;
+	height: 200px;
 }
 
 td{
@@ -29,4 +35,8 @@ td{
     // white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.data-box-hide {
+	display:none;
 }

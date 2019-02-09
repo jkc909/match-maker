@@ -7,7 +7,9 @@ class MatchContainer extends Component {
     super(props);
     this.state = {
       static_data: {},
-      dynamic_data: {}
+      dynamic_data: {},
+      main_data: 1,
+
     };
   }
 
@@ -17,6 +19,12 @@ class MatchContainer extends Component {
       dynamic_data: this.props.dynamic_data
     })
   }
+
+
+  handleSubmit() {
+    let review = { review: this.state.review}
+    this.updateReview(review)
+  }   
 
   render() {
 

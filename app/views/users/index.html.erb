@@ -1,0 +1,42 @@
+<p> HELLO FROM USER PAGE </p>
+
+<br />
+<br />
+<br />
+<br />
+
+<%= @user.email %>
+
+
+<div class='row'>
+	<div class='small-centered medium-centered large-centered columns'>
+		<table>
+			<tr>
+				<td>
+					Retailer
+				</td>
+				<td>
+					Product Name
+				</td>
+				<td>
+					Brand
+				</td>
+				<td>
+					Image
+				</td>
+			</tr>
+
+			<% @prods.each do |p| %>
+				<tr>
+					<td><%= image_tag(p[0]) %></td>
+					<td>
+						<%= link_to(p[1], controller: "statics", action: "show", id: p[4]) %>
+							
+						</td>
+					<td><%= p[2] %></td>
+						<td><%= image_tag(p[3]) %></td>
+				</tr>
+			<% end %>
+		</table>
+	</div>
+</div>

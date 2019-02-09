@@ -2,6 +2,7 @@ class Static < ApplicationRecord
 	belongs_to :retailer
 	has_many :dynamics
 	has_many :matches 
+	has_one :nomatch
 	has_one :project
 	has_one :user, through: :projects
 	validates :child_identifier, presence: true

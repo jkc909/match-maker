@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
-  root 'users#show'
+  root 'users#index'
   devise_for :users
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
-  resources :users, only: [:show]
+  resources :users, only: [:index, :show]
 
   resources :matches, only: [:show]
 
@@ -16,6 +16,7 @@ Rails.application.routes.draw do
   		resources :statics, only: [:show]
   		resources :dynamics, only: [:show]
   		resources :urls, only: [:show]
+      resources :users, only: [:show]
   	end
   end
 end

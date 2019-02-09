@@ -145,11 +145,13 @@ end
 
 
 projects = [
+  {user_id: 1, static_id: 351},
   {user_id: 1, static_id: 2},
-  {user_id: 1, static_id: 3},
-  {user_id: 1, static_id: 4},
-  {user_id: 1, static_id: 5},
-  {user_id: 1, static_id: 6},
+  {user_id: 1, static_id: 271},
+  {user_id: 1, static_id: 120},
+  {user_id: 1, static_id: 61},
+  {user_id: 1, static_id: 19},
+  {user_id: 1, static_id: 43}
 ]
 
 projects.each do |project|
