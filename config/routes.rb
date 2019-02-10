@@ -5,7 +5,7 @@ Rails.application.routes.draw do
 
   resources :users, only: [:index, :show]
 
-  resources :matches, only: [:show]
+  resources :matches, only: [:show, :update]
 
   resources :statics, only: [:show]
 

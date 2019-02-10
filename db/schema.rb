@@ -65,6 +65,7 @@ ActiveRecord::Schema.define(version: 2019_02_07_171439) do
     t.bigint "user_id"
     t.bigint "static_id"
     t.boolean "reviewed", default: false
+    t.integer "priority"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["static_id"], name: "index_projects_on_static_id"

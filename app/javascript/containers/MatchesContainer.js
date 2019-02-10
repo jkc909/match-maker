@@ -12,17 +12,24 @@ class MatchesContainer extends Component {
       match_prods: {},
       selected_match: 0
     };
+    this.fetchUserData = this.fetchUserData.bind(this)
     this.fetchMatchData = this.fetchMatchData.bind(this)
     this.handleSubmit = this.handleSubmit.bind(this)
+    this.updateMatch = this.updateMatch.bind(this)
   }
 
   componentDidMount() {
-    let id = this.props.params.id;
-    this.fetchMatchData(id)
+    if (this.state.base_prod == 0) {
+      let id = this.props.params.id;
+      this.fetchMatchData(id)
+    } else {
+      let id = this.state.base_prod
+      this.fetchMatchData(id)
+    }
   }
 
 
-  fetchMatchData(id){
+  fetchUserData(id){
     fetch(`/api/v1/users/${id}`)
       .then(response => {
         if (response.ok) {
@@ -34,15 +41,35 @@ class MatchesContainer extends Component {
       })
       .then(response => response.json())
       .then(body => {
-        this.setState({ 
+
+        this.fetchMatchData(body.static_id)
+      })
+  }
+
+
+  fetchMatchData(id){
+    fetch(`/api/v1/statics/${id}`)
+      .then(response => {
+        if (response.ok) {
+          return response;
+        } else {
+          let errorMessage = `${response.status} (${response.statusText})`, error = new Error(errorMessage);
+          throw error;
+        }
+      })
+      .then(response => response.json())
+      .then(body => {
+
+        this.setState({
+          user_id: body.static.user_projects[0].user_id,
           user_projects: body.static.user_projects,
           base_prod: body.static.base_prod,
           match_prods: body.static.match_prods,
           selected_match: body.static.match_prods[0].mat.id
         });
+      window.history.pushState("", "Title", `/statics/${body.static.base_prod.sta.id}`)
       })
   }
-
 
   updateMatch(match) {
     fetch(`/api/v1/matches/${this.state.selected_match}`, {
@@ -64,12 +91,15 @@ class MatchesContainer extends Component {
     })
     .then(response => response.json())
     .then(body => {
-      let rev = this.state.review
-      rev.rating = body.rating
-      rev.comment = body.comment
-      this.setState({review: rev, edit: false})
+      this.setState({base_prod: body.static_id})
+      if (body == null) {
+        window.location.href = '/'
+      }
+      debugger;
+      window.history.pushState("", "Title", `/statics/${body.static_id}`)
     })
     .catch(error => {
+      
       console.error(`Error in fetch: ${error.message}`),
       alert("there was a problem with the submission")
     });
@@ -78,6 +108,8 @@ class MatchesContainer extends Component {
   handleSubmit(event) {
     this.updateMatch(event)
   } 
+
+
 
 
   render() {

@@ -29,25 +29,35 @@ class Api::V1::MatchesController < ApplicationController
 
 
     def update
-      if params["status"]
-        up_match = Match.find(params["id"])
-        nomatch = Nomatch.new(static_id: up_match["static_id"], comment: params["comment"])
+      @next_proj = current_user.projects.where("reviewed = false").order("priority DESC").second
+      match_to_update = match_params
+      if match_to_update["status"]
+        up_match = Match.find(match_to_update["id"])
+        nomatch = Nomatch.new(static_id: up_match["static_id"], comment: match_to_update["comment"])
         if nomatch.save
           up_proj = up_match.static.project.update(reviewed: true)
+          render status: 200, json: @next_proj
         else
           render status: 406, json: up_proj
         end
 
       else
-        if up_match = Match.update(params[:id], reviewer_comment: params["comment"], approved: true, users_id: current_user.id)
+        if up_match = Match.update(match_to_update[:id], reviewer_comment: match_to_update["comment"], approved: true, users_id: current_user.id)
         else
           render status: 406, json: up_match
         end
 
-        if up_proj = up_match.static.project.update(reviewed: true)   
+        if up_proj = Match.find(match_to_update[:id]).static.project.update(reviewed: true) 
+          
+          render status: 200, json: @next_proj
         else
           render status: 406, json: up_proj
         end
       end
     end
+
+  private
+  def match_params
+    params.permit(:comment, :status, :id)
+  end
 end

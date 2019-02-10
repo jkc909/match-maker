@@ -13,31 +13,31 @@ const MatchTile = props => {
 
 
       <div className="">
-      <p> 
+       
       <h4>URL:</h4> 
-      </p>
-      <p>
+    
+      
       <h4>Brand:</h4>
       {props.static_data.brand}
-      </p>
-      <p>
+    
+      
       <h4>Part Number:</h4>
       {props.static_data.part_number}
-      </p>
+    
       </div>
 
       <div className="main-data data-box-hide">
-      <p> 
+       
       <h4>URL:</h4> 
-      </p>
-      <p>
+    
+      
       <h4>Brand:</h4>
       {props.static_data.brand}
-      </p>
-      <p>
+    
+      
       <h4>Part Number:</h4>
       {props.static_data.part_number}
-      </p>
+    
       </div>
 
     </div>
