@@ -161,6 +161,7 @@ class MatchesContainer extends Component {
                 <MatchSelectorTile 
                   handleClickMatch={this.handleClickMatch}
                   selected_match={this.state.visible_tab}
+                  match_count={this.state.match_prods}
                 />
               </div>
           </div>
