@@ -6,7 +6,6 @@ class CreateMatches < ActiveRecord::Migration[5.2]
     	t.belongs_to :users
         t.integer :suggested_static_id
     	t.boolean :approved
-    	t.datetime :approved_on
     	t.datetime :suggested_on
     	t.float :manufacturer_score
     	t.float :part_number_score
@@ -14,6 +13,7 @@ class CreateMatches < ActiveRecord::Migration[5.2]
     	t.integer :price_score
     	t.float :average_score
     	t.text :reviewer_comment
+        t.timestamps
     end
   end
 end

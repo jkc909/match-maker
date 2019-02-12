@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_05_040210) do
+ActiveRecord::Schema.define(version: 2019_02_07_171439) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -39,7 +39,6 @@ ActiveRecord::Schema.define(version: 2019_02_05_040210) do
     t.bigint "users_id"
     t.integer "suggested_static_id"
     t.boolean "approved"
-    t.datetime "approved_on"
     t.datetime "suggested_on"
     t.float "manufacturer_score"
     t.float "part_number_score"
@@ -47,13 +46,35 @@ ActiveRecord::Schema.define(version: 2019_02_05_040210) do
     t.integer "price_score"
     t.float "average_score"
     t.text "reviewer_comment"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.index ["retailer_id"], name: "index_matches_on_retailer_id"
     t.index ["static_id"], name: "index_matches_on_static_id"
     t.index ["users_id"], name: "index_matches_on_users_id"
   end
 
+  create_table "nomatches", force: :cascade do |t|
+    t.bigint "static_id"
+    t.text "comment"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["static_id"], name: "index_nomatches_on_static_id"
+  end
+
+  create_table "projects", force: :cascade do |t|
+    t.bigint "user_id"
+    t.bigint "static_id"
+    t.boolean "reviewed", default: false
+    t.integer "priority"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["static_id"], name: "index_projects_on_static_id"
+    t.index ["user_id"], name: "index_projects_on_user_id"
+  end
+
   create_table "retailers", force: :cascade do |t|
     t.string "name", null: false
+    t.string "logo"
   end
 
   create_table "statics", force: :cascade do |t|

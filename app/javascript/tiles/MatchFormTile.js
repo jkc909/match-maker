@@ -4,32 +4,47 @@ class MatchFormTile extends Component {
     constructor(props) {
         super(props);
         this.state = {
-          comment: ""
+          comment: "",
+          status: false
         };
 
         this.handleChange = this.handleChange.bind(this)
+        this.handleCheckbox = this.handleCheckbox.bind(this)
     }
+
     handleChange(event){
       this.setState({[event.target.name]: event.target.value })
     }
 
+    handleCheckbox(event){
+      this.setState({[event.target.name]: event.target.checked })
+    }
+
     render() {
+
       let handleSubmit = (event) => {
         event.preventDefault()
+        event.target.reset()
         this.props.handleSubmit(this.state)
-        this.setState({comment:""})
+        this.setState({comment:"", status: false})
       }
+
       return(
         <div className='row'>
-          <div className='small-12 panel'>
+          <div className=''>
+
+
             <h2>Review this Match:</h2> <br />
             <form onSubmit={handleSubmit}>
-
-              <label name='comment'>Answer:</label>
+              <label name='comment'>Comment on this match:</label>
               <textarea name='comment' value={this.state.comment} onChange={this.handleChange}></textarea>
-              <input className="button submit" type='submit' value='Submit'></input>
-            </form>
+
+              <label name='status'>No Matches found for this product:</label> 
+              <input name='status' type="checkbox" value={this.state.status} onClick={this.handleCheckbox} />
+              <input className="button submit" type='submit' value='Submit Match Review'></input><p> </p>
+            </form>  
           </div>
+          <a href="/">Back to user page</a>
         </div>
       )
     }

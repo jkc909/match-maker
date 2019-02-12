@@ -8,6 +8,8 @@ const App = props => {
     <div>
       <Router history={browserHistory}>
         <Route path="/matches/:id" component={MatchesContainer} />
+        <Route path="/statics/:id" component={MatchesContainer} />
+        <Route path="/users/:id" component={MatchesContainer} />
       </Router>
     </div>
   );
