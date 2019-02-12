@@ -3,20 +3,12 @@ Rails.application.routes.draw do
   devise_for :users
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
-  resources :users, only: [:index, :show]
-
-  resources :matches, only: [:show, :update]
-
-  resources :statics, only: [:show, :update, :index]
-
+  resources :users, only: [:index]
+  resources :statics, only: [:show, :update]
 
   namespace :api do
   	namespace :v1 do
-  		resources :matches, only: [:show, :update]
-  		resources :statics, only: [:show, :update, :index]
-  		resources :dynamics, only: [:show]
-  		resources :urls, only: [:show]
-      resources :users, only: [:show]
+  		resources :statics, only: [:show, :update]
   	end
   end
 end

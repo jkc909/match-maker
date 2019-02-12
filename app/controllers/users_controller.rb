@@ -14,9 +14,5 @@ before_action :authenticate_user!
 		end
 		@logo = 'http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png'
 	end
-
-	def show
-		@project = current_user.projects.where("reviewed = false").order("priority DESC").first
-	end
-
+	
 end
