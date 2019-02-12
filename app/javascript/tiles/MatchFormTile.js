@@ -24,23 +24,27 @@ class MatchFormTile extends Component {
 
       let handleSubmit = (event) => {
         event.preventDefault()
+        event.target.reset()
         this.props.handleSubmit(this.state)
         this.setState({comment:"", status: false})
       }
 
       return(
         <div className='row'>
-          <div className='small-12 panel'>
+          <div className=''>
+
+
             <h2>Review this Match:</h2> <br />
             <form onSubmit={handleSubmit}>
               <label name='comment'>Comment on this match:</label>
               <textarea name='comment' value={this.state.comment} onChange={this.handleChange}></textarea>
 
               <label name='status'>No Matches found for this product:</label> 
-              <input name='status' type="checkbox" value={this.state.status} onClick={this.handleCheckbox} />s
+              <input name='status' type="checkbox" value={this.state.status} onClick={this.handleCheckbox} />
               <input className="button submit" type='submit' value='Submit Match Review'></input><p> </p>
-            </form>
+            </form>  
           </div>
+          <a href="/">Back to user page</a>
         </div>
       )
     }

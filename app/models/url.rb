@@ -1,5 +1,5 @@
 class Url < ApplicationRecord
 	belongs_to :retailer
-	has_many :statics
+	belongs_to :static, optional: true
 	validates :url, presence: true, uniqueness: true
 end

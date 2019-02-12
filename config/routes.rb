@@ -7,13 +7,13 @@ Rails.application.routes.draw do
 
   resources :matches, only: [:show, :update]
 
-  resources :statics, only: [:show]
+  resources :statics, only: [:show, :update, :index]
 
 
   namespace :api do
   	namespace :v1 do
   		resources :matches, only: [:show, :update]
-  		resources :statics, only: [:show]
+  		resources :statics, only: [:show, :update, :index]
   		resources :dynamics, only: [:show]
   		resources :urls, only: [:show]
       resources :users, only: [:show]

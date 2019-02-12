@@ -75,12 +75,13 @@ end
 
 csv_text = File.read('./dynamics_export.csv')
 csv = CSV.parse(csv_text, :headers => true)
+row_id = 1
 csv.each do |row|
   puts('----------------------------')
   row = (row.to_hash)
   puts(row)
   dyn_insert = {
-  	id: row["dynId"], 
+  	id: row_id, 
   	static_id: row["dynStaId"], 
   	retailer_id: row["dynRetId"],
   	price: row["dynPrice"],
@@ -97,6 +98,78 @@ csv.each do |row|
   }
   puts(dyn_insert)
   Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-04-12 13:47:28"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-06-11 11:23:24"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-07-03 18:42:01"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-03-28 10:26:31"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-09-12 16:52:14"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-08-13 13:55:12"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  dyn_insert[:crawl_time] = "2018-08-13 13:55:12"
+  gen_crawl = rand(2)
+  if gen_crawl == 0
+    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
+  else
+    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+  end
+  row_id += 1
+  dyn_insert[:id] = row_id
+  Dynamic.create!(dyn_insert)
+  row_id += 1
+
   puts('----------------------------')
 end
 
@@ -144,16 +217,9 @@ users.each do |user|
 end
 
 
-projects = [
-  {user_id: 1, static_id: 351, priority: 0},
-  {user_id: 1, static_id: 2, priority: 1},
-  {user_id: 1, static_id: 271, priority: 0},
-  {user_id: 1, static_id: 120, priority: 0},
-  {user_id: 1, static_id: 61, priority: 1},
-  {user_id: 1, static_id: 19, priority: 0},
-  {user_id: 1, static_id: 43, priority: 1}
-]
+create_proj = Match.select(:static_id).distinct.limit(1000).shuffle.pop(100)
 
-projects.each do |project|
-  Project.create!(project)
+
+create_proj.each do |p|
+  Project.create({user_id: 1, static_id: p["static_id"], priority: rand(2)})
 end
