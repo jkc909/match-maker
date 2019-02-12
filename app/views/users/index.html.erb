@@ -1,53 +1,115 @@
-<p> HELLO FROM USER PAGE </p>
+<nav class="top-bar">
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="/">MatchMaker</a></h1>
+    </li>
+  </ul>
 
-<br />
-<br />
-<br />
-<br />
+  <section class="top-bar-section">
+    <ul class="right">
+      <%- if current_user -%>
+        <li><%= link_to 'Sign Out', destroy_user_session_path, method: :delete %></li>
+      <%- else -%>
+        <li><%= link_to 'Sign Up', new_user_registration_path %></li>
+        <li><%= link_to 'Sign In', new_user_session_path %></li>
+      <%- end -%>
+    </ul>
+  </section>
+</nav>
 
-<%= @user.email %>
 
-    <section class="top-bar-section">
-      <ul class="right">
-        <%- if current_user -%>
-          <li><%= link_to 'Sign Out', destroy_user_session_path, method: :delete %></li>
-        <%- else -%>
-          <li><%= link_to 'Sign Up', new_user_registration_path %></li>
-          <li><%= link_to 'Sign In', new_user_session_path %></li>
-        <%- end -%>
-      </ul>
-    </section>
+<%- flash.each do |key, value| -%>
+  <div class="flash flash-<%= key %>">
+    <%= value %>
+  </div>
+<%- end -%>
+
+
+
 
 
 <div class='row'>
-	<div class='small-centered medium-centered large-centered columns'>
-		<table>
-			<tr>
-				<td>
-					Retailer
-				</td>
-				<td>
-					Product Name
-				</td>
-				<td>
-					Brand
-				</td>
-				<td>
-					Image
-				</td>
-			</tr>
 
-			<% @prods.each do |p| %>
+<div class='small-2 medium-2 large-2 columns'>
+	  &nbsp; 
+</div>
+
+	<div class='small-8 medium-8 large-8 columns'>
+
+		Matches to review:
+		<div class="table-profile">
+
+			<table>
 				<tr>
-					<td><%= image_tag(p[0]) %></td>
-					<td>
-						<%= link_to(p[1], controller: "statics", action: "show", id: p[4]) %>
-							
-						</td>
-					<td><%= p[2] %></td>
-						<td><%= image_tag(p[3]) %></td>
+					<th>
+						Retailer
+					</th>
+					<th>
+						Product Name
+					</th>
+					<th>
+						Brand
+					</th>
+					<th>
+						Image
+					</th>
 				</tr>
-			<% end %>
-		</table>
+
+				<% @prods.each do |p| %>
+					<tr>
+						<td class='td-profile'><%= image_tag(p[0], class:"retailer-image-profile") %></td>
+						<td class='td-profile'>
+							<%= link_to(p[1], controller: "statics", action: "show", id: p[4]) %>		
+						</td>
+						<td class='td-profile'><%= p[2] %></td>
+						<td class='td-profile'><%= image_tag(p[3], class:"retailer-image-profile") %></td>
+					</tr>
+				<% end %>
+			</table>
+		</div>
+
+
+
+
+		Reviewed Matches:
+		<div class="table-profile">
+
+			<table class='center-er'>
+				<tr>
+					<th>
+						Retailer
+					</th>
+					<th>
+						Product Name
+					</th>
+					<th>
+						Brand
+					</th>
+					<th>
+						Image
+					</th>
+					<th>
+						Feedback
+					</th>
+				</tr>
+
+				<% @reviewed_prods.each do |p| %>
+					<tr>
+						<td class='td-profile'><%= image_tag(p[0], class:"retailer-image-profile") %></td>
+						<td class='td-profile'>
+							<%= link_to(p[1], controller: "statics", action: "show", id: p[4]) %>		
+						</td>
+						<td class='td-profile'><%= p[2] %></td>
+						<td class='td-profile'><%= image_tag(p[3], class:"retailer-image-profile") %></td>
+					</tr>
+				<% end %>
+			</table>
+		</div>
+
+	</div>
+<div class='small-2 medium-2 large-2 columns'>
+	&nbsp;
+</div>
+
 	</div>
 </div>
