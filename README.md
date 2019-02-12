@@ -12,3 +12,27 @@ The main feature of the app is the match review page. Users are presented with t
 This app was built with a Ruby on Rails back end and a React front end. 
 
 ### Work in progress, more details to come
+
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...

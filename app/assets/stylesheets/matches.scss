@@ -57,9 +57,9 @@ body{
 
 
 
-.table {
-	max-width: 98%;
-}
+// .table {
+// 	max-width: 98%;
+// }
 
 .row {
 	max-width: 93%
@@ -70,28 +70,45 @@ body{
 	height: 100px;
 }
 
-// td{
-//     width: 200px;
-//     max-width: 200px;
-//     height: 50px;
-//     max-height: 50px;
-//     // white-space: nowrap;
-//     overflow: hidden;
-//     text-overflow: ellipsis;
-// }
+
+.table-profile {
+	max-width: 850px;
+	height: 300px;
+	max-height: 300px;
+	overflow: auto;
+	text-align: center;
+}
+
+.center-er {
+	align: center;
+}
+
+.td-profile {
+	align: center;
+	text-align: center;
+    width: 200px;
+    max-width: 200px;
+    height: 20px;
+    // max-height: 20px;
+    // white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.retailer-image-profile {
+	width: 100px;
+	height: 100px;
+}
 
 .data-box {
 	margin: auto;
 	// width: 98%;
-
 	height: 300px;
 	background-color: #dae2f2;
 	border-style: solid;
 	border-bottom-style: none;
 	overflow:auto;
 	overflow-x: hidden;
-
-
 }
 
 .data-box-hide {
