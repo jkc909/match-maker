@@ -18,7 +18,7 @@ retailers.each do |retailer|
 end
 
 
-csv_text = File.read('./urls_export.csv')
+csv_text = File.read('./Urls_export.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
   puts('----------------------------')
@@ -33,7 +33,7 @@ csv.each do |row|
 end
 
 
-csv_text = File.read('./statics_export.csv')
+csv_text = File.read('./Statics_export.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
   puts('----------------------------')
@@ -73,7 +73,7 @@ end
 
 
 
-csv_text = File.read('./dynamics_export.csv')
+csv_text = File.read('./Dynamics_export.csv')
 csv = CSV.parse(csv_text, :headers => true)
 row_id = 1
 csv.each do |row|
@@ -176,7 +176,7 @@ end
 
 
 
-csv_text = File.read('./matches_export.csv')
+csv_text = File.read('./Matches_export.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
   puts('----------------------------')
