@@ -111,6 +111,7 @@ class MatchesContainer extends Component {
 
 
   handleSubmit(formPayLoad){
+    debugger;
     let match_update = {}
     match_update.match_id = this.state.selected_match.mat.id
     match_update.approved = formPayLoad.status
@@ -127,8 +128,8 @@ class MatchesContainer extends Component {
         <div>
           <div className="row">
           <br />
-            <div className="small-centered medium-centered large-centered column">
-              <div className='small-6 medium-6 large-6 column'>
+            <div className="small-centered medium-centered large-centered column main-tile-container">
+              <div className='small-6 medium-6 large-6 column product-container-right'>
               
                 <MatchContainer 
                   key={this.state.base_prod.sta.id}
@@ -165,10 +166,10 @@ class MatchesContainer extends Component {
                 />
               </div>
           </div>
-          
-          <br />
+            <div className='form-container'>
               <MatchFormTile 
                 handleSubmit={this.handleSubmit}/>
+            </div>
         </div>
       );
     }
