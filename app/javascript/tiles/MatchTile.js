@@ -39,7 +39,7 @@ const MatchTile = props => {
 
 
   return (
-    <div className="product-container">
+    <div className={props.box_style}>
     
       <div className="row">
       <div className={props.image_hover} id="hidden-scroll">

@@ -44,8 +44,12 @@ body{
 	margin-left: -2%;
 }
 
+.product-container-left {
+	border-right-style:solid;
+}
+
 .match-selector {
-	margin-left:95%;
+	margin-left:97%;
 	// margin-right:-3%;
 	// position: relative;
 	// max-width: 5%;
@@ -214,7 +218,7 @@ body{
 .match-select {
 	// width: 110%;
 	// max-width: 100%;
-	background-color: #product-box;
+	background-color: #91bbff;
 	height: 20%;
 	max-height: 100%;
 	// position: relative;
@@ -222,14 +226,17 @@ body{
 	// overflow: hidden;
 	// padding: 20%;
 	// padding-top: 20%;
-	border-right-style: solid;
+	border-style: solid;
+	border-top-style: none;
+	border-bottom-style: none;
+
 	// padding-bottom: 1%;
 }
 
 .match-selected {
 	border-style: solid;
 	border-left-style: none;
-	background-color: #e2637b;
+	background-color: $product-box;
 }
 
 .match-select:hover {
