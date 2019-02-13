@@ -7,17 +7,16 @@ class MatchFormTile extends Component {
           comment: "",
           status: false
         };
-
         this.handleChange = this.handleChange.bind(this)
-        this.handleCheckbox = this.handleCheckbox.bind(this)
+        this.handleHoverState = this.handleHoverState.bind(this)
     }
 
     handleChange(event){
       this.setState({[event.target.name]: event.target.value })
     }
 
-    handleCheckbox(event){
-      this.setState({[event.target.name]: event.target.checked })
+    handleHoverState(event){
+      this.setState({status: event.target.id})
     }
 
     render() {
@@ -31,20 +30,23 @@ class MatchFormTile extends Component {
 
       return(
         <div className='row'>
-          <div className=''>
-
-
-            <h2>Review this Match:</h2> <br />
+        <a href="/">Back to user page</a>
+        <div className="align-right">
             <form onSubmit={handleSubmit}>
+          <div className='small-10 medium-10 large-10 columns'>
               <label name='comment'>Comment on this match:</label>
-              <textarea name='comment' value={this.state.comment} onChange={this.handleChange}></textarea>
-
-              <label name='status'>No Matches found for this product:</label> 
-              <input name='status' type="checkbox" value={this.state.status} onClick={this.handleCheckbox} />
-              <input className="button submit" type='submit' value='Submit Match Review'></input><p> </p>
+              <textarea className="comment-text" name='comment' value={this.state.comment} onChange={this.handleChange}></textarea>
+          </div>
+            <div className='small-2 medium-2 large-2 columns'>
+              <div id="false" onMouseEnter={this.handleHoverState}>
+              <input className="button submit" type='submit' value='No Match Found' id="false"></input>
+              </div>
+              <div id="true" onMouseEnter={this.handleHoverState}>
+              <input className="button submit" type='submit' value='Confirm Match' id="true" ></input>
+            </div>
+          </div>
             </form>  
           </div>
-          <a href="/">Back to user page</a>
         </div>
       )
     }

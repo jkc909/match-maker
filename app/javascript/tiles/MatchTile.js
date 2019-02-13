@@ -40,6 +40,7 @@ const MatchTile = props => {
 
   return (
     <div className="product-container">
+    
       <div className="row">
       <div className={props.image_hover} id="hidden-scroll">
       <img  src={props.static_data.main_image} />
@@ -156,6 +157,11 @@ const MatchTile = props => {
         </tbody>
       </table>
       </div>
+
+
+    
+
+
 
       <div className={latest_crawl_class} id="hide-scroll">
       <h4>Crawl Data</h4> 
