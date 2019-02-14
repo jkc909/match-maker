@@ -37,7 +37,8 @@ body{
 	border-style:solid;
 	border-right-style:none;
 	padding: 10px;
-	// box-shadow: 5px 5px 10px rgba(0,0,0, 0.2), -5px 5px 10px rgba(0,0,0, 0.2);
+	box-shadow: -5px 5px 10px rgba(0,0,0, 0.2), -5px 5px 10px rgba(0,0,0, 0.2);
+	z-index: 0;
 }
 
 .product-container-right {
@@ -46,10 +47,11 @@ body{
 
 .product-container-left {
 	border-right-style:solid;
+	box-shadow: 5px 5px 10px rgba(0,0,0, 0.2), -5px 5px 10px rgba(0,0,0, 0.2);
 }
 
 .match-selector {
-	margin-left:97%;
+	margin-left:96%;
 	// margin-right:-3%;
 	// position: relative;
 	// max-width: 5%;
@@ -63,7 +65,14 @@ body{
 }
 
 .img-absolute {
-	position: absolute;
+	// position: absolute;
+	background-color: white;
+	position: float;
+	width: 95%;
+	border-style: solid;
+	max-height: 250px;
+	width: 95%;
+	max-height: 250px;
 }
 
 .product-image {
@@ -74,12 +83,13 @@ body{
 	overflow-x: hidden;
 	z-index: 10;
 	border-style: solid;
+	background-color: white;
 }
 
 .product-image:active {
 	transform: scale(1.5); 
 	overflow: visible;
-	position: absolute;
+	position: relative;
 	left: 200px;
 	top: 100px;
 	border-style: none;
@@ -92,6 +102,7 @@ body{
 	height: 250px;
 	overflow:scroll;
 	overflow-x: hidden;
+	
 	z-index: 10;
 	border-style: solid;
 }
@@ -99,7 +110,7 @@ body{
 .product-image-right:active {
 	transform: scale(1.5); 
 	overflow: visible;
-	position: absolute;
+	position: relative;
 	left: -200px;
 	top: 100px;
 	border-style: none;
@@ -230,6 +241,8 @@ body{
 	border-style: solid;
 	border-top-style: none;
 	border-bottom-style: none;
+	border-left: solid 14px;
+	z-index: 100;
 
 	// padding-bottom: 1%;
 }
@@ -244,6 +257,13 @@ body{
 	background-color: orange;
 }
 
+.match-select-remove-top {
+	border-top-style: none;
+}
+
+.match-select-remove-bottom {
+	border-bottom-style: none;
+}
 
 .data-tile-table {
 	align: center;
@@ -279,11 +299,12 @@ body{
 
 .comment-text {
 	width: 300px;
-	height: 120px;
+	height: 90px;
 	border: 3px solid #cccccc;
 	padding: 5px;
 	font-family: Tahoma, sans-serif;
 	background-position: bottom right;
 	background-repeat: no-repeat;
+	resize: none;
 }
 

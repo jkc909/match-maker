@@ -1,5 +1,8 @@
 import React from "react";
 import DataMainTile from './MatchSelectorTile';
+import PricingChartTile from './PricingChartTile'
+import MoreDetailsTile from './MoreDetailsTile'
+import ProductImageTile from './ProductImageTile'
 
 const MatchTile = props => {
 
@@ -42,9 +45,12 @@ const MatchTile = props => {
     <div className={props.box_style}>
     
       <div className="row">
-      <div className={props.image_hover} id="hidden-scroll">
-      <img  src={props.static_data.main_image} />
-      </div>
+      
+      <ProductImageTile 
+        image_hover={props.image_hover}
+        main_image={props.static_data.main_image} 
+      />
+
       </div>
       <p>  </p>
 
@@ -79,96 +85,19 @@ const MatchTile = props => {
 
 
       <div className={more_details_class} id="hide-scroll">
-      <table className='data-tile-table'>
-        <tbody>
-          <tr>
-            <td>Product Name</td>
-            <td>{props.static_data.product_name}</td>
-          </tr>
-          <tr>
-            <td>Part Number</td>
-            <td>{props.static_data.part_number}</td>
-          </tr>
-          <tr>
-            <td>Brand</td>
-            <td>{props.static_data.brand}</td>
-          </tr>
-          <tr>
-            <td>Breadcrumb</td>
-            <td>{props.static_data.Breadcrumb}</td>
-          </tr>
-          <tr>
-            <td>Child Identifier</td>
-            <td>{props.static_data.child_identifier}</td>
-          </tr>
-          <tr>
-            <td>Parent Identifier</td>
-            <td>{props.static_data.parent_identifier}</td>
-          </tr>
-          <tr>
-            <td>Image Count</td>
-            <td>{props.static_data.image_count}</td>
-          </tr>
-          <tr>
-            <td>Description</td>
-            <td>{props.static_data.description}</td>
-          </tr>
+      <MoreDetailsTile 
+        static_data={props.static_data}
+      />
 
-
-          <tr>
-            <td>Shipping Weight</td>
-            <td>{props.static_data.shipping_weight} {props.static_data.shipping_weight_unit}</td>
-          </tr>
-
-          <tr>
-            <td>Date First Available</td>
-            <td>{props.static_data.first_available}</td>
-          </tr>
-
-          <tr>
-            <td>Item Weight</td>
-            <td>{props.static_data.item_weight} {props.static_data.item_weight_unit}</td>
-          </tr>
-
-
-          <tr>
-            <td>Dimensions</td>
-            <td>{props.static_data.dimensions} {props.static_data.dimensions_unit}</td>
-          </tr>
-
-
-          <tr>
-            <td>Best Seller 1</td>
-            <td>{props.static_data.best_seller_1}</td>
-          </tr>
-
-
-          <tr>
-            <td>Best Seller 2</td>
-            <td>{props.static_data.best_seller_2}</td>
-          </tr>
-
-
-          <tr>
-            <td>Best Seller 3</td>
-            <td>{props.static_data.best_seller_3}</td>
-          </tr>          
-
-        </tbody>
-      </table>
       </div>
 
 
-    
-
+  
 
 
       <div className={latest_crawl_class} id="hide-scroll">
-      <h4>Crawl Data</h4> 
-      <h4>Last Crwal Date</h4>
-      NUMBer 3 
-      <h4>Price</h4>
-      {props.dynamic_data.prod_price}
+      <PricingChartTile 
+        data={props.dynamic_data}/>
       </div>
 
       <div className={match_data_class} id="hide-scroll">
@@ -190,6 +119,8 @@ const MatchTile = props => {
       <div id="latest-crawl" className={latest_crawl_button} onClick={props.handleClick}>Latest Crawl</div>
       <div id="match-data" className={match_data_button} onClick={props.handleClick}>Match Details</div>
       </div>
+
+
 
 
     </div>

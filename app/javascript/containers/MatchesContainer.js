@@ -80,7 +80,9 @@ class MatchesContainer extends Component {
           user_projects: body.static.user_projects,
           base_prod: body.static.base_prod,
           match_prods: body.static.match_prods,
-          selected_match: body.static.match_prods[0]
+          selected_match: body.static.match_prods[0],
+          right_data_box: 'main-data',
+          visible_tab: 0
         })      
         window.history.pushState("", "MatchMaker<3", `/statics/${body.static.base_prod.sta.id}`) 
         } 
@@ -111,7 +113,6 @@ class MatchesContainer extends Component {
 
 
   handleSubmit(formPayLoad){
-    debugger;
     let match_update = {}
     match_update.match_id = this.state.selected_match.mat.id
     match_update.approved = formPayLoad.status

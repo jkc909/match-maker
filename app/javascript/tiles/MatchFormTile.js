@@ -41,7 +41,7 @@ class MatchFormTile extends Component {
               <div id="false" onMouseEnter={this.handleHoverState}>
               <input className="button submit" type='submit' value='No Match Found' id="false"></input>
               </div>
-              <div id="true" onMouseEnter={this.handleHoverState}>
+          <div id="true" onMouseEnter={this.handleHoverState}>
               <input className="button submit" type='submit' value='Confirm Match' id="true" ></input>
             </div>
           </div>

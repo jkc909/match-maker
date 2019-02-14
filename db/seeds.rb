@@ -97,80 +97,23 @@ csv.each do |row|
   	crawl_time:row["dynCrawlTime"]
   }
   puts(dyn_insert)
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-04-12 13:47:28"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
+  x = 9
   row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-06-11 11:23:24"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
-  row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-07-03 18:42:01"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
-  row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-03-28 10:26:31"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
-  row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-09-12 16:52:14"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
-  row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-08-13 13:55:12"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
-  row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  dyn_insert[:crawl_time] = "2018-08-13 13:55:12"
-  gen_crawl = rand(2)
-  if gen_crawl == 0
-    dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f
-  else
-    dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(10).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
-  end
-  row_id += 1
-  dyn_insert[:id] = row_id
-  Dynamic.create!(dyn_insert)
-  row_id += 1
+  while x > 0 
+    dyn_insert[:crawl_time] = DateTime.now-rand(800)
+    gen_crawl = rand(2)
+    if gen_crawl == 0 
+      dyn_insert[:price] = dyn_insert[:price].to_f + ((rand(6).to_f + 1) / 100) * dyn_insert[:price].to_f
+    else
+      dyn_insert[:price] = (dyn_insert[:price].to_f - ((rand(6).to_f + 1) / 100) * dyn_insert[:price].to_f).round(2)
+    end
+    dyn_insert[:id] = row_id
+    Dynamic.create!(dyn_insert)
 
-  puts('----------------------------')
+    row_id += 1
+    puts('----------------------------')
+    x-=1
+  end
 end
 
 
