@@ -70,8 +70,8 @@ const MatchTile = props => {
         <h4> 
           <a onClick={openWindow}>{props.static_data.product_name}</a> 
         </h4>
-        <h4>Brand: {props.static_data.brand}</h4>
-        <h4>Part Number: {props.static_data.part_number}</h4>
+        <h5>Brand: {props.static_data.brand}</h5>
+        <h5>Part Number: {props.static_data.part_number}</h5>
       </div>
 
         </div>

@@ -31,15 +31,16 @@ class MatchFormTile extends Component {
       return(
         <div className='row'>
 
-<div className='small-3 medium-3 large-3 columns'>
-        <a href="/">Back to user page</a>
+<div className='small-3 medium-3 large-3 columns submit-buttons'>
+<form action="/">
+   <input className="button submit submit-button drop-shadow" type='submit' value='Back to User Page'></input>     
+</form>
 </div>
 
 
             <form onSubmit={handleSubmit}>
         <div className='small-3 medium-3 large-3 columns'>
-              <label name='comment'>Comment on this match:</label>
-              <textarea className="comment-text drop-shadow" name='comment' value={this.state.comment} onChange={this.handleChange}></textarea>
+              <textarea className="comment-text drop-shadow" name='comment' value={this.state.comment} onChange={this.handleChange} placeholder="Comment on this match..."></textarea>
           </div>
             <div className='small-3 medium-3 large-3 columns submit-buttons'>
               <div id="false" onMouseEnter={this.handleHoverState}>

@@ -13,7 +13,8 @@ class MatchesContainer extends Component {
       match_prods: {},
       selected_match: 0,
       right_data_box: 'main-data',
-      visible_tab: 0
+      visible_tab: 0,
+      submitted_trigger: 0
     };
     this.handleSubmit = this.handleSubmit.bind(this);
     this.updateMatch = this.updateMatch.bind(this);
@@ -46,7 +47,8 @@ class MatchesContainer extends Component {
           user_projects: body.static.user_projects,
           base_prod: body.static.base_prod,
           match_prods: body.static.match_prods,
-          selected_match: body.static.match_prods[0]
+          selected_match: body.static.match_prods[0],
+          submitted_trigger: 0
         })
         window.history.pushState("", "MatchMaker<3", `/statics/${body.static.base_prod.sta.id}`)
       })
@@ -82,7 +84,8 @@ class MatchesContainer extends Component {
           match_prods: body.static.match_prods,
           selected_match: body.static.match_prods[0],
           right_data_box: 'main-data',
-          visible_tab: 0
+          visible_tab: 0,
+          submitted_trigger: 0
         })      
         window.history.pushState("", "MatchMaker<3", `/statics/${body.static.base_prod.sta.id}`) 
         } 
@@ -118,19 +121,39 @@ class MatchesContainer extends Component {
     match_update.approved = formPayLoad.status
     match_update.comment = formPayLoad.comment
     match_update.static_id = this.state.base_prod.sta.id
-    this.updateMatch(match_update)
+
+    if (formPayLoad.status=='true') {this.setState({ submitted_trigger: 1 })}
+    else if (formPayLoad.status=='false') {this.setState({ submitted_trigger: 2 })}
+
+    setTimeout(() => this.updateMatch(match_update),1000)
   } 
 
   render() {
 
-    if(this.state.base_prod != 0) {
+    let animate_match = ''
+    let animate_match_right = ''
+    let animate_checkmark = ''
+    let match_submit_img = "http://www.clker.com/cliparts/2/k/n/l/C/Q/transparent-green-checkmark-md.png"
+    let match_confim_message = 'Match Confirmed!'
+    if (this.state.submitted_trigger==1) {
+      animate_match = 'animate-match'
+      animate_match_right = 'animate-match-right'
+      animate_checkmark = 'animate-match-confirm-check'
+    } else if (this.state.submitted_trigger==2) {
+      animate_match = 'animate-nomatch'
+      animate_match_right = 'animate-nomatch-right'
+      animate_checkmark = 'animate-match-confirm-check'
+      match_submit_img = "http://www.clker.com/cliparts/B/X/M/u/y/E/transparent-red-checkmark-md.png"    
+      match_confim_message = 'No Match Confirmed!'  
+    }
 
+    if(this.state.base_prod != 0) {
       return (
         <div>
           <div className="row">
           <br />
             <div className="small-centered medium-centered large-centered column main-tile-container">
-              <div className='small-6 medium-6 large-6 column product-container-right animate-match'>
+              <div className={`small-6 medium-6 large-6 column product-container-right ${animate_match}`}>
               
                 <MatchContainer 
                   key={this.state.base_prod.sta.id}
@@ -143,7 +166,7 @@ class MatchesContainer extends Component {
                   box_position={0}             
                 />
               </div>
-              <div className='small-6 medium-6 large-6 column animate-match-right'>
+              <div className={`small-6 medium-6 large-6 column product-container-right ${animate_match_right}`}>
               
               
                 <MatchContainer 
@@ -160,7 +183,7 @@ class MatchesContainer extends Component {
 
 
               </div>
-              <div className="match-selector animate-match-right">
+              <div className={`match-selector ${animate_match_right}`}>
                 <MatchSelectorTile 
                   handleClickMatch={this.handleClickMatch}
                   selected_match={this.state.visible_tab}
@@ -175,8 +198,8 @@ class MatchesContainer extends Component {
             </div>
 
 
-<div className="match-confirm-check">
-<img src="http://www.clker.com/cliparts/2/k/n/l/C/Q/transparent-green-checkmark-md.png"  /> <h1>Match Confirmed! </h1>
+<div className={`match-confirm-check ${animate_checkmark}`}>
+<img src={match_submit_img}  /> <h1>{match_confim_message} </h1>
 </div>
 
         </div>

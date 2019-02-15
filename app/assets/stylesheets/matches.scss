@@ -9,6 +9,7 @@ a {
 
 html, body {
   overflow-y:hidden;
+  overflow-x:hidden;
   height:100%;
 }
 
@@ -17,81 +18,23 @@ body{
 }
 
 
-// .animate-match {
-// 	animation-timing-function: ease-in-out;
-// 	position: relative;
-// 	animation-name: animateMatch;
-// 	animation-duration: 3s;
-// 	animation-fill-mode: forwards;
-// }
-
-
-// @keyframes animateMatch {
-//   0%   {left:0px; opacity: 1}
-//   25%  {left:25%; opacity: .8}
-//   75%  {left:25%; opacity: 0}
-//   100%  {left:25%; opacity: 0}
-// }
-
-
-// .animate-match-right {
-// 	animation-timing-function: ease-in-out;
-// 	position: relative;
-// 	animation-name: animateMatchRight;
-// 	animation-duration: 3s;
-// 	animation-fill-mode: forwards;
-// }
-
-
-// @keyframes animateMatchRight {
-//   0%   {left:0px; opacity: 1}
-//   25%  {left:-25%; opacity: .8}
-//   75%  {left:-25%; opacity: 0}
-//   100%  {left:-25%; opacity: 0}
-// }
-
-
-
-.match-confirm-check {
-	position: absolute;
-	top: 10%;
-	display: block;
-	// bottom: 30%;
-	text-align: center;
-	// right: 50%;
-	left: 35%;
-	height: 400px;
-	width: 400px;
-	// background-color: red;
-	opacity: 0;
-	animation-name: animateConfirmMatch;
-	animation-fill-mode: forwards;
-	animation-duration: 3s;
-}
-
-// @keyframes animateConfirmMatch {
-//   0%   {opacity: 0}
-//   50%  {opacity: 0}
-//   75%  {opacity: .5}
-//   100%  {opacity: 1}
-// }
-
 
 
 .main-tile-container {
 	// max-height: 200px;
 	height: 597px;
+	position: relative;
+	z-index: 0;
 }
 
 .form-container {
 	padding-top: 1%;
 	max-width: 81%;
 	float: center;
+	text-align: center;
 }
 
-.align-right {
-	float: right;
-}
+
 
 .product-container {
 	display:block;
@@ -103,11 +46,11 @@ body{
 	border-right-style:none;
 	padding: 10px;
 	box-shadow: -5px 5px 10px rgba(0,0,0, 0.2), -5px 5px 10px rgba(0,0,0, 0.2);
-	z-index: 0;
+    border-radius: 5px;
 }
 
 .product-container-right {
-	margin-left: -2%;
+	margin-left: -1%;
 }
 
 .product-container-left {
@@ -127,6 +70,8 @@ body{
 	border-left-style: none;
 	max-width: 90%;
 	box-shadow: 0px 5px 10px rgba(0,0,0, 0.2), 0px 5px 10px rgba(0,0,0, 0.2);
+	position: relative;
+    z-index: -1;
 }
 
 .img-absolute {
@@ -310,6 +255,7 @@ body{
 .match-select {
 	// width: 110%;
 	// max-width: 100%;
+	font-weight: bold;
 	padding-top: 87%;
 	background-color: #91bbff;
 	height: 20%;
@@ -323,7 +269,8 @@ body{
 	border-top-style: none;
 	border-bottom-style: none;
 	border-left: solid 14px;
-	z-index: 100;
+	// position: relative;
+	// z-index: 0;
 
 	// padding-bottom: 1%;
 }
@@ -381,9 +328,6 @@ body{
 	padding: 2%;
 }
 
-.accent-text {
-	color: #1b4a96;
-}
 
 .comment-text {
 	width: 300px;
@@ -394,10 +338,11 @@ body{
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	resize: none;
+
 }
 
 .submit-buttons {
-	padding-top: 3%;
+	padding-top: 2%;
 }
 
 .submit-button {
@@ -427,4 +372,12 @@ body{
 
 .drop-shadow {
 	box-shadow: -5px 5px 10px rgba(0,0,0, 0.2), -5px 5px 10px rgba(0,0,0, 0.2);
+}
+
+
+.on-top {
+	height: 161%;
+    top: -63%;
+	position: relative;
+	z-index: 1000;
 }
