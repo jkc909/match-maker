@@ -43,13 +43,11 @@ const MatchTile = props => {
 
   return (
     <div className={props.box_style}>
-    
       <div className="row">
-      
-      <ProductImageTile 
-        image_hover={props.image_hover}
-        main_image={props.static_data.main_image} 
-      />
+        <ProductImageTile 
+          image_hover={props.image_hover}
+          main_image={props.static_data.main_image} 
+        />
 
       </div>
       <p>  </p>
@@ -65,6 +63,8 @@ const MatchTile = props => {
       <div className="small-3 medium-3 large-3 columns">
         <img src={props.reatailer_img} className='retailer-image'/>
       </div>
+
+
 
       <div className="small-9 medium-9 large-9 columns">
         <h4> 
@@ -85,9 +85,9 @@ const MatchTile = props => {
 
 
       <div className={more_details_class} id="hide-scroll">
-      <MoreDetailsTile 
-        static_data={props.static_data}
-      />
+        <MoreDetailsTile 
+          static_data={props.static_data}
+        />
 
       </div>
 
@@ -106,6 +106,7 @@ const MatchTile = props => {
       <h5>Manufacturer Score: {props.match_data.manufacturer_score}</h5>
       <h5>Part Number Score: {props.match_data.part_number_score}</h5>
       <h5>Price Score: {props.match_data.price_score}</h5>
+      <h5>Product Name Score: {props.match_data.product_name_score}</h5>
       
       </div>
       </div>

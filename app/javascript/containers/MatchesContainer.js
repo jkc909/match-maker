@@ -130,7 +130,7 @@ class MatchesContainer extends Component {
           <div className="row">
           <br />
             <div className="small-centered medium-centered large-centered column main-tile-container">
-              <div className='small-6 medium-6 large-6 column product-container-right'>
+              <div className='small-6 medium-6 large-6 column product-container-right animate-match'>
               
                 <MatchContainer 
                   key={this.state.base_prod.sta.id}
@@ -143,7 +143,7 @@ class MatchesContainer extends Component {
                   box_position={0}             
                 />
               </div>
-              <div className='small-6 medium-6 large-6 column'>
+              <div className='small-6 medium-6 large-6 column animate-match-right'>
               
               
                 <MatchContainer 
@@ -160,17 +160,25 @@ class MatchesContainer extends Component {
 
 
               </div>
+              <div className="match-selector animate-match-right">
                 <MatchSelectorTile 
                   handleClickMatch={this.handleClickMatch}
                   selected_match={this.state.visible_tab}
                   match_count={this.state.match_prods}
                 />
+                </div>
               </div>
           </div>
             <div className='form-container'>
               <MatchFormTile 
                 handleSubmit={this.handleSubmit}/>
             </div>
+
+
+<div className="match-confirm-check">
+<img src="http://www.clker.com/cliparts/2/k/n/l/C/Q/transparent-green-checkmark-md.png"  /> <h1>Match Confirmed! </h1>
+</div>
+
         </div>
       );
     }

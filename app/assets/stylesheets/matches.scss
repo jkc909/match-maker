@@ -7,9 +7,75 @@ a {
   color: black;
 }
 
+html, body {
+  overflow-y:hidden;
+  height:100%;
+}
+
 body{
 	background-color: #efefef;
 }
+
+
+// .animate-match {
+// 	animation-timing-function: ease-in-out;
+// 	position: relative;
+// 	animation-name: animateMatch;
+// 	animation-duration: 3s;
+// 	animation-fill-mode: forwards;
+// }
+
+
+// @keyframes animateMatch {
+//   0%   {left:0px; opacity: 1}
+//   25%  {left:25%; opacity: .8}
+//   75%  {left:25%; opacity: 0}
+//   100%  {left:25%; opacity: 0}
+// }
+
+
+// .animate-match-right {
+// 	animation-timing-function: ease-in-out;
+// 	position: relative;
+// 	animation-name: animateMatchRight;
+// 	animation-duration: 3s;
+// 	animation-fill-mode: forwards;
+// }
+
+
+// @keyframes animateMatchRight {
+//   0%   {left:0px; opacity: 1}
+//   25%  {left:-25%; opacity: .8}
+//   75%  {left:-25%; opacity: 0}
+//   100%  {left:-25%; opacity: 0}
+// }
+
+
+
+.match-confirm-check {
+	position: absolute;
+	top: 10%;
+	display: block;
+	// bottom: 30%;
+	text-align: center;
+	// right: 50%;
+	left: 35%;
+	height: 400px;
+	width: 400px;
+	// background-color: red;
+	opacity: 0;
+	animation-name: animateConfirmMatch;
+	animation-fill-mode: forwards;
+	animation-duration: 3s;
+}
+
+// @keyframes animateConfirmMatch {
+//   0%   {opacity: 0}
+//   50%  {opacity: 0}
+//   75%  {opacity: .5}
+//   100%  {opacity: 1}
+// }
+
 
 
 .main-tile-container {
@@ -19,8 +85,7 @@ body{
 
 .form-container {
 	padding-top: 1%;
-	max-width: 90%;
-	// padding-left: 30%;
+	max-width: 81%;
 	float: center;
 }
 
@@ -102,7 +167,7 @@ body{
 	height: 250px;
 	overflow:scroll;
 	overflow-x: hidden;
-	
+
 	z-index: 10;
 	border-style: solid;
 }
@@ -196,17 +261,32 @@ body{
 }
 
 .data-button {
+	font-weight: bold;
 	height: 50px;
 	border-top-style: solid;
 	text-align: center; 
+	padding-top: 2%;
+	text-decoration: none;
+	border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .data-button:hover {
 	background-color: yellow;
+	-webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 .selected-button {
 	background-color: #dae2f2;
+	border-style: solid;
+	border-top-style: none;
+}
+
+.selected-button:hover {
+	background-color: $data-box;
 	border-style: solid;
 	border-top-style: none;
 }
@@ -230,6 +310,7 @@ body{
 .match-select {
 	// width: 110%;
 	// max-width: 100%;
+	padding-top: 87%;
 	background-color: #91bbff;
 	height: 20%;
 	max-height: 100%;
@@ -255,6 +336,14 @@ body{
 
 .match-select:hover {
 	background-color: orange;
+	-webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+}
+
+.match-selected:hover {
+	background-color: $product-box;
 }
 
 .match-select-remove-top {
@@ -288,7 +377,6 @@ body{
 .login-header {
 	max-width: 80%;
 	text-align: center;
-
 	margin-left: 10%;
 	padding: 2%;
 }
@@ -308,3 +396,35 @@ body{
 	resize: none;
 }
 
+.submit-buttons {
+	padding-top: 3%;
+}
+
+.submit-button {
+    max-width: 200px;
+    text-align: center;
+    margin-left: 17px;
+    border-style: solid;
+}
+
+.submit-match-found {
+	background-color: #a3e585;
+	color: black;
+}
+
+.submit-match-found:hover {
+	background-color: #2a5b01;
+}
+
+.submit-no-match {
+	background-color: #ff2d2d;
+	border-style: solid;
+}
+
+.submit-no-match:hover {
+	background-color: #840000;
+}
+
+.drop-shadow {
+	box-shadow: -5px 5px 10px rgba(0,0,0, 0.2), -5px 5px 10px rgba(0,0,0, 0.2);
+}

@@ -31,9 +31,9 @@ const MatchSelectorTile = props => {
 	})
 
   return (
-		<div className="match-selector">
+		<fragment>
 		{matchTabTiles}
-		</div>
+		</fragment>
   );
 };
 
