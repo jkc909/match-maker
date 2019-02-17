@@ -3,7 +3,7 @@
 	animation-timing-function: ease-in-out;
 	// position: relative;
 	animation-name: animateMatch;
-	animation-duration: 1s;
+	animation-duration: 1.5s;
 	// animation-fill-mode: forwards;
 }
 
@@ -21,7 +21,7 @@
 	animation-timing-function: ease-in-out;
 	// position: relative;
 	animation-name: animateMatchRight;
-	animation-duration: 1s;
+	animation-duration: 1.5s;
 	// animation-fill-mode: forwards;
 }
 
@@ -54,7 +54,7 @@
 .animate-match-confirm-check {
 	animation-name: animateConfirmMatch;
 	// animation-fill-mode: forwards;
-	animation-duration: 1s;
+	animation-duration: 1.5s;
 }
 
 @keyframes animateConfirmMatch {

@@ -25,7 +25,7 @@ class MatchFormTile extends Component {
         event.preventDefault()
         event.target.reset()
         this.props.handleSubmit(this.state)
-        this.setState({comment:"", status: false})
+        this.setState({comment:""})
       }
 
       return(
@@ -49,7 +49,7 @@ class MatchFormTile extends Component {
             </div>
             <div className='small-3 medium-3 large-3 columns submit-buttons'>  
           <div id="true" onMouseEnter={this.handleHoverState}>
-              <input className="button submit submit-button submit-match-found drop-shadow" type='submit' value='Confirm Match' id="true" ></input>
+              <input className="button submit submit-button submit-match-found drop-shadow" type='submit' value='Confirm Match' id="true"></input>
             </div>
           </div>
             </form>  

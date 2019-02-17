@@ -124,7 +124,6 @@ class MatchesContainer extends Component {
 
     if (formPayLoad.status=='true') {this.setState({ submitted_trigger: 1 })}
     else if (formPayLoad.status=='false') {this.setState({ submitted_trigger: 2 })}
-
     setTimeout(() => this.updateMatch(match_update),1000)
   } 
 
