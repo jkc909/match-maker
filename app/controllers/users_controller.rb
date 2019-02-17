@@ -24,5 +24,9 @@ before_action :authenticate_user!
 		
 		@logo = 'http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png'
 	end
+
+	def create
+		binding.pry 
+	end
 	
 end

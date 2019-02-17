@@ -1,0 +1,108 @@
+
+.animate-match {
+	animation-timing-function: ease-in-out;
+	// position: relative;
+	animation-name: animateMatch;
+	animation-duration: 1.5s;
+	// animation-fill-mode: forwards;
+}
+
+
+@keyframes animateMatch {
+  0%   {left:0px; opacity: 1}
+  25%  {left:25%; opacity: .8}
+  75%  {left:25%; opacity: 0}
+  90% {left:0%; opacity: 0}
+  100%  {left:0%; opacity: 1}
+}
+
+
+.animate-match-right {
+	animation-timing-function: ease-in-out;
+	// position: relative;
+	animation-name: animateMatchRight;
+	animation-duration: 1.5s;
+	// animation-fill-mode: forwards;
+}
+
+
+@keyframes animateMatchRight {
+  0%   {left:0px; opacity: 1}
+  25%  {left:-25%; opacity: .8}
+  75%  {left:-25%; opacity: 0}
+  90% {left:0%; opacity: 0}
+  100%  {left:0%; opacity: 1}
+}
+
+
+.match-confirm-check {
+	position: absolute;
+	top: 10%;
+	display: block;
+	// bottom: 30%;
+	text-align: center;
+	// right: 50%;
+	left: 35%;
+	height: 400px;
+	width: 400px;
+	// background-color: red;
+	opacity: 0;
+
+	z-index: -100;
+}
+
+.animate-match-confirm-check {
+	animation-name: animateConfirmMatch;
+	// animation-fill-mode: forwards;
+	animation-duration: 1.5s;
+}
+
+@keyframes animateConfirmMatch {
+  0%   {opacity: 0}
+  50%  {opacity: 0}
+  75%  {opacity: 1}
+  100%  {opacity: 1}
+}
+
+
+
+
+
+
+.animate-nomatch {
+	animation-timing-function: ease-in-out;
+	// position: relative;
+	animation-name: animateNoMatch;
+	animation-duration: 1.5s;
+	// animation-fill-mode: forwards;
+}
+
+
+@keyframes animateNoMatch {
+  0%   {left:0px; opacity: 1}
+  25%  {left:-50%; opacity: .8}
+  75%  {left:-100%; opacity: 0}
+  90% {left:0%; opacity: 0}
+  100%  {left:0%; opacity: 1}
+}
+
+
+.animate-nomatch-right {
+	animation-timing-function: ease-in-out;
+	// position: relative;
+	animation-name: animateNoMatchRight;
+	animation-duration: 1.5s;
+	animation-fill-mode: forwards;
+}
+
+
+@keyframes animateNoMatchRight {
+  0%   {left:0px; opacity: 1}
+  25%  {left:50%; opacity: .8}
+  75%  {left:100%; opacity: 0}
+  90% {left:0%; opacity: 0}
+  100%  {left:0%; opacity: 1}
+}
+
+
+

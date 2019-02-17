@@ -25,28 +25,41 @@ class MatchFormTile extends Component {
         event.preventDefault()
         event.target.reset()
         this.props.handleSubmit(this.state)
-        this.setState({comment:"", status: false})
+        this.setState({comment:""})
       }
 
       return(
         <div className='row'>
-        <a href="/">Back to user page</a>
-        <div className="align-right">
+
+<div className='small-3 medium-3 large-3 columns submit-buttons'>
+<form action="/">
+   <input className="button submit submit-button drop-shadow" type='submit' value='Back to User Page'></input>     
+</form>
+</div>
+
+
             <form onSubmit={handleSubmit}>
-          <div className='small-10 medium-10 large-10 columns'>
-              <label name='comment'>Comment on this match:</label>
-              <textarea className="comment-text" name='comment' value={this.state.comment} onChange={this.handleChange}></textarea>
+        <div className='small-3 medium-3 large-3 columns'>
+              <textarea className="comment-text drop-shadow" name='comment' value={this.state.comment} onChange={this.handleChange} placeholder="Comment on this match..."></textarea>
           </div>
-            <div className='small-2 medium-2 large-2 columns'>
+            <div className='small-3 medium-3 large-3 columns submit-buttons'>
               <div id="false" onMouseEnter={this.handleHoverState}>
-              <input className="button submit" type='submit' value='No Match Found' id="false"></input>
+                <input className="button submit submit-button submit-no-match drop-shadow" type='submit' value='No Match Found' id="false"></input>
               </div>
-              <div id="true" onMouseEnter={this.handleHoverState}>
-              <input className="button submit" type='submit' value='Confirm Match' id="true" ></input>
+            </div>
+            <div className='small-3 medium-3 large-3 columns submit-buttons'>  
+          <div id="true" onMouseEnter={this.handleHoverState}>
+              <input className="button submit submit-button submit-match-found drop-shadow" type='submit' value='Confirm Match' id="true"></input>
             </div>
           </div>
             </form>  
-          </div>
+
+
+
+
+
+
+
         </div>
       )
     }

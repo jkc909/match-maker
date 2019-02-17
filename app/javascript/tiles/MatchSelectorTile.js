@@ -13,6 +13,13 @@ const MatchSelectorTile = props => {
 		} else {
 			selected_style = "match-select"
 		}
+
+		if (selected_match==0) {
+			selected_style = selected_style + ' match-select-remove-top'
+		} else if (selected_match==match_count.length-1) {
+			selected_style = selected_style + ' match-select-remove-bottom'
+		}
+
 		return(
 			<MatchTabTile 
 			key={id_counter}
@@ -24,9 +31,9 @@ const MatchSelectorTile = props => {
 	})
 
   return (
-		<div className="match-selector">
+		<fragment>
 		{matchTabTiles}
-		</div>
+		</fragment>
   );
 };
 

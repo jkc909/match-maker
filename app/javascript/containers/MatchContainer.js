@@ -34,14 +34,16 @@ class MatchContainer extends Component {
   }   
 
   render() {
+    let box_style ="product-container"
     let image_hover
     let reatailer_img
     if (this.state.box_position == 1) {
       image_hover = "product-image-right"
-      reatailer_img = "http://www.seeklogovector.com/wp-content/uploads/2018/09/sweetwater-logo-vector.png"
+      reatailer_img = "https://bluepolointeractive.com/wp-content/uploads/2018/03/980x575-swlogo-color-tagline-980x575-1.png"
     } else {
       image_hover = "product-image"
-      reatailer_img = "http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png"
+      reatailer_img = "http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c518.png"
+      box_style = 'product-container product-container-left'
     }
 
     return (
@@ -55,6 +57,7 @@ class MatchContainer extends Component {
           visible_div={this.state.visible_div}
           image_hover={image_hover}
           reatailer_img={reatailer_img}
+          box_style={box_style}
         />
       </div>
     );

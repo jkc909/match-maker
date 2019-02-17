@@ -5,21 +5,30 @@ import { Chart } from 'react-google-charts';
 
 class PricingChartTile extends React.Component {
   render() {
+    let data = [['Date', 'Price']]
+    if (this.props.data.length > 1) {
+      this.props.data.forEach(function(crawl) {
+        let crawl_date = crawl.crawl_time
+        let crawl_price = crawl.price
+        data.push([crawl_date, crawl_price])
+      })
+    }
     return (
-      <div className={'my-pretty-chart-container'}>
-        <h1> Hello from GoogleCharts Example </h1>
-        <div>
-          <h2> Below is an example scatter Chart</h2>
+      <div className={'pricing-chart'}>
           <Chart
-            chartType="ScatterChart"
-            data={[['Age', 'Weight'], [8, 12], [4, 5.5]]}
+            chartType="LineChart"
+            data={data}
             options={{}}
-            graph_id="ScatterChart"
+            // graph_id="ScatterChart"
             width="100%"
-            height="400px"
+            height="240px"
             legend_toggle
+            loader={<div>Loading Chart</div>}
+            options={{
+              hAxis: {title: 'Date',},
+              vAxis: {title: 'Price',},
+            }}
           />
-        </div>
       </div>
     );
   }
