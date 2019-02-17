@@ -19,7 +19,6 @@ class PricingChartTile extends React.Component {
             chartType="LineChart"
             data={data}
             options={{}}
-            // graph_id="ScatterChart"
             width="100%"
             height="240px"
             legend_toggle
