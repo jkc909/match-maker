@@ -5,7 +5,7 @@ import { Chart } from 'react-google-charts';
 
 class PricingChartTile extends React.Component {
   render() {
-    let data = [['Date', 'Price']]
+    let data = [['Date', '']]
     if (this.props.data.length > 1) {
       this.props.data.forEach(function(crawl) {
         let crawl_date = crawl.crawl_time
@@ -19,10 +19,9 @@ class PricingChartTile extends React.Component {
             chartType="LineChart"
             data={data}
             options={{}}
-            // graph_id="ScatterChart"
             width="100%"
             height="240px"
-            legend_toggle
+
             loader={<div>Loading Chart</div>}
             options={{
               hAxis: {title: 'Date',},

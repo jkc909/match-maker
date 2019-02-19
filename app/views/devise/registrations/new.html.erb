@@ -3,7 +3,8 @@
     <%= value %>
   </div>
 <%- end -%>
-
+<br />  
+<br />  
 <div class="login-row" >
   <div class="row medium-center">
     <h2>Sign up</h2>
@@ -12,7 +13,8 @@
       <%= devise_error_messages! %>
 
       <div class="field">
-        <%= f.label :email %><br />
+        <%= f.label :email %>
+        <em>Does not have to be a valid email, test@test.com would work!</em>
         <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
       </div>
 

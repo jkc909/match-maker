@@ -6,7 +6,8 @@ const MatchTabTile = props => {
 
   return (
 		  <div className={props.selected_style}>
-		  <div className="on-top" id={props.tab_id}  onClick={props.handleClickMatch}>{match_display}</div>
+		  	<div className="on-top" id={props.tab_id}  onClick={props.handleClickMatch}>{match_display}
+		  	</div>
 		  </div>
   );
 };
