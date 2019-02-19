@@ -17,9 +17,13 @@ This app was built with a Ruby on Rails back end and a React front end.
  
 ## Installation
  > bundle install
+ 
  > bundle exec rake db:create
+ 
  > bundle exec rake db:migrate
+ 
  > bundle exec rake db:seed
+ 
  > yarn run install
 
 Then start your Rails server and Yarn server and you're good to go!
