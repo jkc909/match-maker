@@ -11,6 +11,8 @@ The main feature of the app is the match review page. Users are presented with t
 
 This app was built with a Ruby on Rails back end and a React front end. 
 
+Check out my other repo dataFetch for more info on how I aquired and generated the data for this app! https://github.com/jkc909/dataFetch
+
 ## Dependencies
   
  > Ruby- 2.4.5
